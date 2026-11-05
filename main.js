@@ -9994,118 +9994,118 @@ if (!self.__WB_pmw) {
                 })();
                 const P4 = [{
                         id: "cap",
-                        name: "Cap",
+                        name: "Leather Cowl",
                         lvl: 1,
                         type: 0,
                         def: [3, 5]
                     }, {
                         id: "skullcap",
-                        name: "Skull Cap",
+                        name: "Bronze Med Helm",
                         lvl: 5,
                         type: 0,
                         def: [8, 11],
                         req_str: 15
                     }, {
                         id: "helm",
-                        name: "Helm",
+                        name: "Iron Med Helm",
                         lvl: 11,
                         type: 0,
                         def: [15, 18],
                         req_str: 26
                     }, {
                         id: "fullhelm",
-                        name: "Full Helm",
+                        name: "Iron Full Helm",
                         lvl: 15,
                         type: 0,
                         def: [23, 26],
                         req_str: 41
                     }, {
                         id: "mask",
-                        name: "Mask",
+                        name: "Steel Med Helm",
                         lvl: 19,
                         type: 0,
                         def: [9, 27],
                         req_str: 23
                     }, {
                         id: "bonehelm",
-                        name: "Bone Helm",
+                        name: "Steel Full Helm",
                         lvl: 22,
                         type: 0,
                         def: [33, 36],
                         req_str: 25
                     }, {
                         id: "greathelm",
-                        name: "Great Helm",
+                        name: "Black Full Helm",
                         lvl: 23,
                         type: 0,
                         def: [30, 35],
                         req_str: 63
                     }, {
                         id: "crown",
-                        name: "Crown",
+                        name: "Mithril Med Helm",
                         lvl: 29,
                         type: 0,
                         def: [25, 45],
                         req_str: 55
                     }, {
                         id: "warhat",
-                        name: "War Hat",
+                        name: "Mithril Full Helm",
                         lvl: 39,
                         type: 0,
                         def: [45, 53],
                         req_str: 20
                     }, {
                         id: "sallet",
-                        name: "Sallet",
+                        name: "Adamant Full Helm",
                         lvl: 42,
                         type: 0,
                         def: [52, 62],
                         req_str: 43
                     }, {
                         id: "casque",
-                        name: "Casque",
+                        name: "Rune Med Helm",
                         lvl: 47,
                         type: 0,
                         def: [63, 72],
                         req_str: 59
                     }, {
                         id: "basinet",
-                        name: "Basinet",
+                        name: "Rune Full Helm",
                         lvl: 50,
                         type: 0,
                         def: [75, 84],
                         req_str: 82
                     }, {
                         id: "deathmask",
-                        name: "Death Mask",
+                        name: "Dragon Med Helm",
                         lvl: 53,
                         type: 0,
                         def: [54, 86],
                         req_str: 25
                     }, {
                         id: "grimhelm",
-                        name: "Grim Helm",
+                        name: "Berserker Helm",
                         lvl: 55,
                         type: 0,
                         def: [60, 125],
                         req_str: 58
                     }, {
                         id: "wingedhelm",
-                        name: "Winged Helm",
+                        name: "Helm of Neitiznot",
                         lvl: 56,
                         type: 0,
                         def: [85, 98],
                         req_str: 115
                     }, {
                         id: "grandcrown",
-                        name: "Grand Crown",
+                        name: "Neitiznot Faceguard",
                         lvl: 60,
                         type: 0,
                         def: [78, 113],
                         req_str: 103
                     }, {
                         id: "wolfhead",
-                        name: "Wolf Head",
+                        name: "Wolf Hood",
                         lvl: 4,
                         type: 0,
                         def: [8, 11],
@@ -10113,7 +10113,7 @@ if (!self.__WB_pmw) {
                         class: 3
                     }, {
                         id: "hawkhelm",
-                        name: "Hawk Helm",
+                        name: "Hawk Hood",
                         lvl: 8,
                         type: 0,
                         def: [4, 15],
@@ -10121,7 +10121,7 @@ if (!self.__WB_pmw) {
                         class: 3
                     }, {
                         id: "antlers",
-                        name: "Antlers",
+                        name: "Antler Helm",
                         lvl: 16,
                         type: 0,
                         def: [18, 24],
@@ -10145,7 +10145,7 @@ if (!self.__WB_pmw) {
                         class: 3
                     }, {
                         id: "alphahelm",
-                        name: "Alpha Helm",
+                        name: "Larupia Hat",
                         lvl: 40,
                         type: 0,
                         def: [52, 62],
@@ -10153,7 +10153,7 @@ if (!self.__WB_pmw) {
                         class: 3
                     }, {
                         id: "griffonheaddress",
-                        name: "Griffon Headdress",
+                        name: "Graahk Headdress",
                         lvl: 45,
                         type: 0,
                         def: [46, 68],
@@ -10161,7 +10161,7 @@ if (!self.__WB_pmw) {
                         class: 3
                     }, {
                         id: "huntersguise",
-                        name: "Hunter's Guise",
+                        name: "Kyatt Hat",
                         lvl: 51,
                         type: 0,
                         def: [67, 81],
@@ -10169,7 +10169,7 @@ if (!self.__WB_pmw) {
                         class: 3
                     }, {
                         id: "sacredfeathers",
-                        name: "Sacred Feathers",
+                        name: "Feather Headdress",
                         lvl: 55,
                         type: 0,
                         def: [58, 87],
@@ -10177,7 +10177,7 @@ if (!self.__WB_pmw) {
                         class: 3
                     }, {
                         id: "totemicmask",
-                        name: "Totemic Mask",
+                        name: "Totem Mask",
                         lvl: 60,
                         type: 0,
                         def: [73, 98],
@@ -10191,210 +10191,210 @@ if (!self.__WB_pmw) {
                         type: 1
                     }, {
                         id: "robe",
-                        name: "Robe",
+                        name: "Wizard Robe",
                         lvl: 1,
                         type: 2,
                         def: [5, 10],
                         class: 0
                     }, {
                         id: "quilted",
-                        name: "Quilted Armor",
+                        name: "Leather Body",
                         lvl: 2,
                         type: 2,
                         def: [8, 11],
                         req_str: 10
                     }, {
                         id: "leather",
-                        name: "Leather Armor",
+                        name: "Hard Leather Body",
                         lvl: 3,
                         type: 2,
                         def: [14, 17],
                         req_str: 15
                     }, {
                         id: "hardleather",
-                        name: "Hard Leather Armor",
+                        name: "Studded Body",
                         lvl: 5,
                         type: 2,
                         def: [21, 24],
                         req_str: 20
                     }, {
                         id: "studdedleather",
-                        name: "Studded Leather",
+                        name: "Bronze Chainbody",
                         lvl: 8,
                         type: 2,
                         def: [32, 35],
                         req_str: 27
                     }, {
                         id: "ringmail",
-                        name: "Ring Mail",
+                        name: "Iron Chainbody",
                         lvl: 11,
                         type: 2,
                         def: [45, 48],
                         req_str: 36
                     }, {
                         id: "scalemail",
-                        name: "Scale Mail",
+                        name: "Steel Chainbody",
                         lvl: 13,
                         type: 2,
                         def: [57, 60],
                         req_str: 44
                     }, {
                         id: "chainmail",
-                        name: "Chain Mail",
+                        name: "Black Chainbody",
                         lvl: 15,
                         type: 2,
                         def: [72, 75],
                         req_str: 48
                     }, {
                         id: "breastplate",
-                        name: "Breast Plate",
+                        name: "Mithril Chainbody",
                         lvl: 18,
                         type: 2,
                         def: [65, 68],
                         req_str: 30
                     }, {
                         id: "splintmail",
-                        name: "Splint Mail",
+                        name: "Adamant Chainbody",
                         lvl: 20,
                         type: 2,
                         def: [90, 95],
                         req_str: 51
                     }, {
                         id: "platemail",
-                        name: "Plate Mail",
+                        name: "Rune Chainbody",
                         lvl: 24,
                         type: 2,
                         def: [108, 116],
                         req_str: 65
                     }, {
                         id: "gothicplate",
-                        name: "Gothic Plate",
+                        name: "Dragon Chainbody",
                         lvl: 32,
                         type: 2,
                         def: [128, 135],
                         req_str: 70
                     }, {
                         id: "fullplate",
-                        name: "Full Plate",
+                        name: "Rune Platebody",
                         lvl: 37,
                         type: 2,
                         def: [105, 161],
                         req_str: 80
                     }, {
                         id: "ancientarmor",
-                        name: "Ancient Armor",
+                        name: "Dragon Platebody",
                         lvl: 40,
                         type: 2,
                         def: [218, 233],
                         req_str: 100
                     }, {
                         id: "ghostarmor",
-                        name: "Ghost Armor",
+                        name: "Ghostly Robe Top",
                         lvl: 39,
                         type: 2,
                         def: [102, 117],
                         req_str: 38
                     }, {
                         id: "serpentskinarmor",
-                        name: "Serpentskin Armor",
+                        name: "Green D'hide Body",
                         lvl: 41,
                         type: 2,
                         def: [111, 126],
                         req_str: 43
                     }, {
                         id: "demonhidearmor",
-                        name: "Demonhide Armor",
+                        name: "Blue D'hide Body",
                         lvl: 42,
                         type: 2,
                         def: [122, 136],
                         req_str: 50
                     }, {
                         id: "trellisedarmor",
-                        name: "Trellised Armor",
+                        name: "Red D'hide Body",
                         lvl: 45,
                         type: 2,
                         def: [138, 153],
                         req_str: 61
                     }, {
                         id: "linkedmail",
-                        name: "Linked Mail",
+                        name: "Black D'hide Body",
                         lvl: 47,
                         type: 2,
                         def: [158, 172],
                         req_str: 74
                     }, {
                         id: "tigulatedmail",
-                        name: "Tigulated Mail",
+                        name: "Armadyl Chestplate",
                         lvl: 48,
                         type: 2,
                         def: [176, 190],
                         req_str: 86
                     }, {
                         id: "cuirass",
-                        name: "Cuirass",
+                        name: "Saradomin Platebody",
                         lvl: 52,
                         type: 2,
                         def: [188, 202],
                         req_str: 65
                     }, {
                         id: "mesharmor",
-                        name: "Mesh Armor",
+                        name: "Obsidian Platebody",
                         lvl: 50,
                         type: 2,
                         def: [198, 213],
                         req_str: 92
                     }, {
                         id: "russetarmor",
-                        name: "Russet Armor",
+                        name: "Verac's Brassard",
                         lvl: 54,
                         type: 2,
                         def: [225, 243],
                         req_str: 97
                     }, {
                         id: "mageplate",
-                        name: "Mage Plate",
+                        name: "Ahrim's Robetop",
                         lvl: 65,
                         type: 2,
                         def: [225, 261],
                         req_str: 55
                     }, {
                         id: "sharktootharmor",
-                        name: "Sharktooth Armor",
+                        name: "Torag's Platebody",
                         lvl: 60,
                         type: 2,
                         def: [242, 258],
                         req_str: 103
                     }, {
                         id: "templarcoat",
-                        name: "Templar Coat",
+                        name: "Guthan's Platebody",
                         lvl: 57,
                         type: 2,
                         def: [252, 274],
                         req_str: 118
                     }, {
                         id: "embossedplate",
-                        name: "Embossed Plate",
+                        name: "Karil's Leathertop",
                         lvl: 63,
                         type: 2,
                         def: [282, 303],
                         req_str: 125
                     }, {
                         id: "chaosarmor",
-                        name: "Chaos Armor",
+                        name: "Zamorak Platebody",
                         lvl: 66,
                         type: 2,
                         def: [315, 342],
                         req_str: 140
                     }, {
                         id: "ornateplate",
-                        name: "Ornate Plate",
+                        name: "Third-age Platebody",
                         lvl: 69,
                         type: 2,
                         def: [417, 450],
                         req_str: 170
                     }, {
                         id: "dagger",
-                        name: "Dagger",
+                        name: "Bronze Dagger",
                         lvl: 1,
                         type: 3,
                         minDmg: 1,
@@ -10403,7 +10403,7 @@ if (!self.__WB_pmw) {
                         wtype: "d"
                     }, {
                         id: "poignard",
-                        name: "Poignard",
+                        name: "Dragon Dagger",
                         lvl: 36,
                         type: 3,
                         minDmg: 9,
@@ -10412,7 +10412,7 @@ if (!self.__WB_pmw) {
                         wtype: "d"
                     }, {
                         id: "club",
-                        name: "Club",
+                        name: "Bronze Mace",
                         lvl: 1,
                         type: 3,
                         minDmg: 1,
@@ -10421,7 +10421,7 @@ if (!self.__WB_pmw) {
                         wtype: "m"
                     }, {
                         id: "spikedclub",
-                        name: "Spiked Club",
+                        name: "Iron Mace",
                         lvl: 4,
                         type: 3,
                         minDmg: 5,
@@ -10430,7 +10430,7 @@ if (!self.__WB_pmw) {
                         wtype: "m"
                     }, {
                         id: "mace",
-                        name: "Mace",
+                        name: "Steel Mace",
                         lvl: 8,
                         type: 3,
                         minDmg: 3,
@@ -10440,7 +10440,7 @@ if (!self.__WB_pmw) {
                         req_str: 27
                     }, {
                         id: "morningstar",
-                        name: "Morning Star",
+                        name: "Black Mace",
                         lvl: 13,
                         type: 3,
                         minDmg: 7,
@@ -10450,7 +10450,7 @@ if (!self.__WB_pmw) {
                         req_str: 36
                     }, {
                         id: "flail",
-                        name: "Flail",
+                        name: "Mithril Mace",
                         lvl: 19,
                         type: 3,
                         minDmg: 1,
@@ -10461,7 +10461,7 @@ if (!self.__WB_pmw) {
                         req_dex: 35
                     }, {
                         id: "warhammer",
-                        name: "War Hammer",
+                        name: "Adamant Mace",
                         lvl: 25,
                         type: 3,
                         minDmg: 19,
@@ -10471,7 +10471,7 @@ if (!self.__WB_pmw) {
                         req_str: 53
                     }, {
                         id: "cudgel",
-                        name: "Cudgel",
+                        name: "Rune Mace",
                         lvl: 35,
                         type: 3,
                         minDmg: 6,
@@ -10481,7 +10481,7 @@ if (!self.__WB_pmw) {
                         req_str: 25
                     }, {
                         id: "barbedclub",
-                        name: "Barbed Club",
+                        name: "Granite Maul",
                         lvl: 37,
                         type: 3,
                         minDmg: 13,
@@ -10491,7 +10491,7 @@ if (!self.__WB_pmw) {
                         req_str: 30
                     }, {
                         id: "flangedmace",
-                        name: "Flanged Mace",
+                        name: "Dragon Mace",
                         lvl: 40,
                         type: 3,
                         minDmg: 15,
@@ -10501,7 +10501,7 @@ if (!self.__WB_pmw) {
                         req_str: 61
                     }, {
                         id: "jaggedstar",
-                        name: "Jagged Star",
+                        name: "Ancient Mace",
                         lvl: 44,
                         type: 3,
                         minDmg: 20,
@@ -10511,7 +10511,7 @@ if (!self.__WB_pmw) {
                         req_str: 74
                     }, {
                         id: "knout",
-                        name: "Knout",
+                        name: "Elder Maul",
                         lvl: 48,
                         type: 3,
                         minDmg: 13,
@@ -10522,7 +10522,7 @@ if (!self.__WB_pmw) {
                         req_dex: 73
                     }, {
                         id: "shortsword",
-                        name: "Short Sword",
+                        name: "Bronze Sword",
                         lvl: 1,
                         type: 3,
                         minDmg: 2,
@@ -10531,7 +10531,7 @@ if (!self.__WB_pmw) {
                         wtype: "s"
                     }, {
                         id: "scimitar",
-                        name: "Scimitar",
+                        name: "Iron Scimitar",
                         lvl: 5,
                         type: 3,
                         minDmg: 2,
@@ -10541,7 +10541,7 @@ if (!self.__WB_pmw) {
                         req_dex: 21
                     }, {
                         id: "sabre",
-                        name: "Sabre",
+                        name: "Steel Scimitar",
                         lvl: 8,
                         type: 3,
                         minDmg: 3,
@@ -10552,7 +10552,7 @@ if (!self.__WB_pmw) {
                         req_dex: 25
                     }, {
                         id: "falchion",
-                        name: "Falchion",
+                        name: "Steel Sword",
                         lvl: 8,
                         type: 3,
                         minDmg: 9,
@@ -10562,7 +10562,7 @@ if (!self.__WB_pmw) {
                         req_str: 33
                     }, {
                         id: "crystalsword",
-                        name: "Crystal Sword",
+                        name: "Black Scimitar",
                         lvl: 11,
                         type: 3,
                         minDmg: 5,
@@ -10572,7 +10572,7 @@ if (!self.__WB_pmw) {
                         req_str: 43
                     }, {
                         id: "broadsword",
-                        name: "Broad Sword",
+                        name: "Mithril Scimitar",
                         lvl: 15,
                         type: 3,
                         minDmg: 7,
@@ -10582,7 +10582,7 @@ if (!self.__WB_pmw) {
                         req_str: 48
                     }, {
                         id: "longsword",
-                        name: "Long Sword",
+                        name: "Adamant Scimitar",
                         lvl: 20,
                         type: 3,
                         minDmg: 3,
@@ -10593,7 +10593,7 @@ if (!self.__WB_pmw) {
                         req_dex: 39
                     }, {
                         id: "warsword",
-                        name: "War Sword",
+                        name: "Rune Scimitar",
                         lvl: 27,
                         type: 3,
                         minDmg: 8,
@@ -10604,7 +10604,7 @@ if (!self.__WB_pmw) {
                         req_dex: 45
                     }, {
                         id: "gladius",
-                        name: "Gladius",
+                        name: "Rune Sword",
                         lvl: 35,
                         type: 3,
                         minDmg: 8,
@@ -10613,7 +10613,7 @@ if (!self.__WB_pmw) {
                         wtype: "s"
                     }, {
                         id: "cutlass",
-                        name: "Cutlass",
+                        name: "Abyssal Tentacle",
                         lvl: 48,
                         type: 3,
                         minDmg: 8,
@@ -10624,7 +10624,7 @@ if (!self.__WB_pmw) {
                         req_dex: 52
                     }, {
                         id: "shamshir",
-                        name: "Shamshir",
+                        name: "Dragon Scimitar",
                         lvl: 40,
                         type: 3,
                         minDmg: 10,
@@ -10635,7 +10635,7 @@ if (!self.__WB_pmw) {
                         req_dex: 58
                     }, {
                         id: "tulwar",
-                        name: "Tulwar",
+                        name: "Dragon Longsword",
                         lvl: 42,
                         type: 3,
                         minDmg: 16,
@@ -10645,7 +10645,7 @@ if (!self.__WB_pmw) {
                         req_str: 70
                     }, {
                         id: "dimensionalblade",
-                        name: "Dimensional Blade",
+                        name: "Dragon Sword",
                         lvl: 42,
                         type: 3,
                         minDmg: 13,
@@ -10656,7 +10656,7 @@ if (!self.__WB_pmw) {
                         req_dex: 60
                     }, {
                         id: "battlesword",
-                        name: "Battle Sword",
+                        name: "Abyssal Whip",
                         lvl: 45,
                         type: 3,
                         minDmg: 16,
@@ -10666,7 +10666,7 @@ if (!self.__WB_pmw) {
                         req_str: 93
                     }, {
                         id: "runesword",
-                        name: "Rune Sword",
+                        name: "Saradomin Sword",
                         lvl: 49,
                         type: 3,
                         minDmg: 10,
@@ -10677,7 +10677,7 @@ if (!self.__WB_pmw) {
                         req_dex: 79
                     }, {
                         id: "ancientsword",
-                        name: "Ancient Sword",
+                        name: "Blade of Saeldor",
                         lvl: 54,
                         type: 3,
                         minDmg: 18,
@@ -10688,7 +10688,7 @@ if (!self.__WB_pmw) {
                         req_dex: 88
                     }, {
                         id: "twohandedsword",
-                        name: "Two-Handed Sword",
+                        name: "Bronze 2h Sword",
                         lvl: 10,
                         type: 3,
                         minDmg: 8,
@@ -10700,7 +10700,7 @@ if (!self.__WB_pmw) {
                         w2handed: !0
                     }, {
                         id: "claymore",
-                        name: "Claymore",
+                        name: "Iron 2h Sword",
                         lvl: 17,
                         type: 3,
                         minDmg: 13,
@@ -10711,7 +10711,7 @@ if (!self.__WB_pmw) {
                         w2handed: !0
                     }, {
                         id: "giantsword",
-                        name: "Giant Sword",
+                        name: "Steel 2h Sword",
                         lvl: 21,
                         type: 3,
                         minDmg: 9,
@@ -10723,7 +10723,7 @@ if (!self.__WB_pmw) {
                         w2handed: !0
                     }, {
                         id: "bastardsword",
-                        name: "Bastard Sword",
+                        name: "Black 2h Sword",
                         lvl: 24,
                         type: 3,
                         minDmg: 20,
@@ -10734,7 +10734,7 @@ if (!self.__WB_pmw) {
                         w2handed: !0
                     }, {
                         id: "flamberge",
-                        name: "Flamberge",
+                        name: "Mithril 2h Sword",
                         lvl: 27,
                         type: 3,
                         minDmg: 13,
@@ -10746,7 +10746,7 @@ if (!self.__WB_pmw) {
                         w2handed: !0
                     }, {
                         id: "greatsword",
-                        name: "Great Sword",
+                        name: "Adamant 2h Sword",
                         lvl: 33,
                         type: 3,
                         minDmg: 25,
@@ -10758,7 +10758,7 @@ if (!self.__WB_pmw) {
                         w2handed: !0
                     }, {
                         id: "espandon",
-                        name: "Espandon",
+                        name: "Rune 2h Sword",
                         lvl: 42,
                         type: 3,
                         minDmg: 18,
@@ -10770,7 +10770,7 @@ if (!self.__WB_pmw) {
                         w2handed: !0
                     }, {
                         id: "dalcianfalx",
-                        name: "Dalcian Falx",
+                        name: "Dragon 2h Sword",
                         lvl: 47,
                         type: 3,
                         minDmg: 26,
@@ -10782,7 +10782,7 @@ if (!self.__WB_pmw) {
                         w2handed: !0
                     }, {
                         id: "tusksword",
-                        name: "Tusk Sword",
+                        name: "Bandos Godsword",
                         lvl: 50,
                         type: 3,
                         minDmg: 19,
@@ -10794,7 +10794,7 @@ if (!self.__WB_pmw) {
                         w2handed: !0
                     }, {
                         id: "gothicsword",
-                        name: "Gothic Sword",
+                        name: "Zamorak Godsword",
                         lvl: 53,
                         type: 3,
                         minDmg: 39,
@@ -10806,7 +10806,7 @@ if (!self.__WB_pmw) {
                         w2handed: !0
                     }, {
                         id: "zweihander",
-                        name: "Zweihander",
+                        name: "Armadyl Godsword",
                         lvl: 54,
                         type: 3,
                         minDmg: 29,
@@ -10818,7 +10818,7 @@ if (!self.__WB_pmw) {
                         w2handed: !0
                     }, {
                         id: "executionersword",
-                        name: "Executioner Sword",
+                        name: "Saradomin Godsword",
                         lvl: 59,
                         type: 3,
                         minDmg: 47,
@@ -10830,7 +10830,7 @@ if (!self.__WB_pmw) {
                         w2handed: !0
                     }, {
                         id: "handaxe",
-                        name: "Hand Axe",
+                        name: "Bronze Hatchet",
                         lvl: 1,
                         type: 3,
                         minDmg: 3,
@@ -10839,7 +10839,7 @@ if (!self.__WB_pmw) {
                         wtype: "a"
                     }, {
                         id: "axe",
-                        name: "Axe",
+                        name: "Iron Hatchet",
                         lvl: 7,
                         type: 3,
                         minDmg: 4,
@@ -10849,7 +10849,7 @@ if (!self.__WB_pmw) {
                         req_str: 32
                     }, {
                         id: "doubleaxe",
-                        name: "Double Axe",
+                        name: "Steel Hatchet",
                         lvl: 13,
                         type: 3,
                         minDmg: 5,
@@ -10859,7 +10859,7 @@ if (!self.__WB_pmw) {
                         req_str: 43
                     }, {
                         id: "militarypick",
-                        name: "Military Pick",
+                        name: "Black Hatchet",
                         lvl: 19,
                         type: 3,
                         minDmg: 7,
@@ -10870,7 +10870,7 @@ if (!self.__WB_pmw) {
                         req_dex: 33
                     }, {
                         id: "waraxe",
-                        name: "War Axe",
+                        name: "Mithril Hatchet",
                         lvl: 25,
                         type: 3,
                         minDmg: 10,
@@ -10880,7 +10880,7 @@ if (!self.__WB_pmw) {
                         req_str: 67
                     }, {
                         id: "hatchet",
-                        name: "Hatchet",
+                        name: "Adamant Hatchet",
                         lvl: 36,
                         type: 3,
                         minDmg: 10,
@@ -10891,7 +10891,7 @@ if (!self.__WB_pmw) {
                         req_dex: 25
                     }, {
                         id: "cleaver",
-                        name: "Cleaver",
+                        name: "Rune Hatchet",
                         lvl: 39,
                         type: 3,
                         minDmg: 10,
@@ -10901,7 +10901,7 @@ if (!self.__WB_pmw) {
                         req_str: 68
                     }, {
                         id: "twinaxe",
-                        name: "Twin Axe",
+                        name: "Dragon Hatchet",
                         lvl: 44,
                         type: 3,
                         minDmg: 13,
@@ -10911,7 +10911,7 @@ if (!self.__WB_pmw) {
                         req_str: 85
                     }, {
                         id: "crowbill",
-                        name: "Crowbill",
+                        name: "Dragon Axe",
                         lvl: 48,
                         type: 3,
                         minDmg: 14,
@@ -10922,7 +10922,7 @@ if (!self.__WB_pmw) {
                         req_dex: 70
                     }, {
                         id: "naga",
-                        name: "Naga",
+                        name: "Barrelchest Anchor",
                         lvl: 53,
                         type: 3,
                         minDmg: 16,
@@ -10932,7 +10932,7 @@ if (!self.__WB_pmw) {
                         req_str: 121
                     }, {
                         id: "largeaxe",
-                        name: "Large Axe",
+                        name: "Bronze Battleaxe",
                         lvl: 6,
                         type: 3,
                         minDmg: 6,
@@ -10943,7 +10943,7 @@ if (!self.__WB_pmw) {
                         w2handed: !0
                     }, {
                         id: "broadaxe",
-                        name: "Broad Axe",
+                        name: "Iron Battleaxe",
                         lvl: 12,
                         type: 3,
                         minDmg: 10,
@@ -10954,7 +10954,7 @@ if (!self.__WB_pmw) {
                         w2handed: !0
                     }, {
                         id: "battleaxe",
-                        name: "Battle Axe",
+                        name: "Steel Battleaxe",
                         lvl: 17,
                         type: 3,
                         minDmg: 12,
@@ -10965,7 +10965,7 @@ if (!self.__WB_pmw) {
                         w2handed: !0
                     }, {
                         id: "greataxe",
-                        name: "Great Axe",
+                        name: "Black Battleaxe",
                         lvl: 23,
                         type: 3,
                         minDmg: 9,
@@ -10977,7 +10977,7 @@ if (!self.__WB_pmw) {
                         w2handed: !0
                     }, {
                         id: "militaryaxe",
-                        name: "Military Axe",
+                        name: "Adamant Battleaxe",
                         lvl: 39,
                         type: 3,
                         minDmg: 14,
@@ -10988,7 +10988,7 @@ if (!self.__WB_pmw) {
                         w2handed: !0
                     }, {
                         id: "beardedaxe",
-                        name: "Bearded Axe",
+                        name: "Rune Battleaxe",
                         lvl: 43,
                         type: 3,
                         minDmg: 21,
@@ -10999,7 +10999,7 @@ if (!self.__WB_pmw) {
                         w2handed: !0
                     }, {
                         id: "tabar",
-                        name: "Tabar",
+                        name: "Dragon Battleaxe",
                         lvl: 47,
                         type: 3,
                         minDmg: 24,
@@ -11010,7 +11010,7 @@ if (!self.__WB_pmw) {
                         w2handed: !0
                     }, {
                         id: "gothicaxe",
-                        name: "Gothic Axe",
+                        name: "Dharok's Axe",
                         lvl: 51,
                         type: 3,
                         minDmg: 18,
@@ -11022,7 +11022,7 @@ if (!self.__WB_pmw) {
                         w2handed: !0
                     }, {
                         id: "ancientaxe",
-                        name: "Ancient Axe",
+                        name: "Abyssal Bludgeon",
                         lvl: 56,
                         type: 3,
                         minDmg: 46,
@@ -11033,7 +11033,7 @@ if (!self.__WB_pmw) {
                         w2handed: !0
                     }, {
                         id: "giantaxe",
-                        name: "Giant Axe",
+                        name: "Mithril Battleaxe",
                         lvl: 32,
                         type: 3,
                         minDmg: 22,
@@ -11044,7 +11044,7 @@ if (!self.__WB_pmw) {
                         w2handed: !0
                     }, {
                         id: "shortstaff",
-                        name: "Short Staff",
+                        name: "Staff",
                         lvl: 1,
                         type: 3,
                         minDmg: 1,
@@ -11054,7 +11054,7 @@ if (!self.__WB_pmw) {
                         w2handed: !0
                     }, {
                         id: "longstaff",
-                        name: "Long Staff",
+                        name: "Magic Staff",
                         lvl: 8,
                         type: 3,
                         minDmg: 2,
@@ -11064,7 +11064,7 @@ if (!self.__WB_pmw) {
                         w2handed: !0
                     }, {
                         id: "gnarledstaff",
-                        name: "Gnarled Staff",
+                        name: "Battlestaff",
                         lvl: 12,
                         type: 3,
                         minDmg: 4,
@@ -11074,7 +11074,7 @@ if (!self.__WB_pmw) {
                         w2handed: !0
                     }, {
                         id: "battlestaff",
-                        name: "Battle Staff",
+                        name: "Fire Battlestaff",
                         lvl: 17,
                         type: 3,
                         minDmg: 6,
@@ -11084,7 +11084,7 @@ if (!self.__WB_pmw) {
                         w2handed: !0
                     }, {
                         id: "warstaff",
-                        name: "War Staff",
+                        name: "Mystic Staff",
                         lvl: 24,
                         type: 3,
                         minDmg: 12,
@@ -11094,7 +11094,7 @@ if (!self.__WB_pmw) {
                         w2handed: !0
                     }, {
                         id: "jostaff",
-                        name: "Jo Staff",
+                        name: "Mystic Fire Staff",
                         lvl: 35,
                         type: 3,
                         minDmg: 6,
@@ -11104,7 +11104,7 @@ if (!self.__WB_pmw) {
                         w2handed: !0
                     }, {
                         id: "quarterstaff",
-                        name: "Quarter Staff",
+                        name: "Staff of Light",
                         lvl: 40,
                         type: 3,
                         minDmg: 8,
@@ -11114,7 +11114,7 @@ if (!self.__WB_pmw) {
                         w2handed: !0
                     }, {
                         id: "cedarstaff",
-                        name: "Cedar Staff",
+                        name: "Staff of Armadyl",
                         lvl: 43,
                         type: 3,
                         minDmg: 11,
@@ -11124,7 +11124,7 @@ if (!self.__WB_pmw) {
                         w2handed: !0
                     }, {
                         id: "gothicstaff",
-                        name: "Gothic Staff",
+                        name: "Staff of the Dead",
                         lvl: 47,
                         type: 3,
                         minDmg: 14,
@@ -11134,7 +11134,7 @@ if (!self.__WB_pmw) {
                         w2handed: !0
                     }, {
                         id: "runestaff",
-                        name: "Rune Staff",
+                        name: "Staff of Sliske",
                         lvl: 52,
                         type: 3,
                         minDmg: 24,
@@ -11144,7 +11144,7 @@ if (!self.__WB_pmw) {
                         w2handed: !0
                     }, {
                         id: "buckler",
-                        name: "Buckler",
+                        name: "Wooden Shield",
                         lvl: 1,
                         type: 4,
                         def: [4, 6],
@@ -11152,7 +11152,7 @@ if (!self.__WB_pmw) {
                         req_str: 10
                     }, {
                         id: "smallshield",
-                        name: "Small Shield",
+                        name: "Bronze Sq Shield",
                         lvl: 5,
                         type: 4,
                         def: [8, 10],
@@ -11160,7 +11160,7 @@ if (!self.__WB_pmw) {
                         req_str: 22
                     }, {
                         id: "largeshield",
-                        name: "Large Shield",
+                        name: "Iron Sq Shield",
                         lvl: 11,
                         type: 4,
                         def: [12, 14],
@@ -11168,7 +11168,7 @@ if (!self.__WB_pmw) {
                         req_str: 34
                     }, {
                         id: "kiteshield",
-                        name: "Kite Shield",
+                        name: "Black Sq Shield",
                         lvl: 15,
                         type: 4,
                         def: [16, 18],
@@ -11176,7 +11176,7 @@ if (!self.__WB_pmw) {
                         req_str: 47
                     }, {
                         id: "spikedshield",
-                        name: "Spiked Shield",
+                        name: "Steel Sq Shield",
                         lvl: 11,
                         type: 4,
                         def: [15, 25],
@@ -11184,7 +11184,7 @@ if (!self.__WB_pmw) {
                         req_str: 30
                     }, {
                         id: "boneshield",
-                        name: "Bone Shield",
+                        name: "Mithril Sq Shield",
                         lvl: 19,
                         type: 4,
                         def: [10, 30],
@@ -11192,7 +11192,7 @@ if (!self.__WB_pmw) {
                         req_str: 25
                     }, {
                         id: "towershield",
-                        name: "Tower Shield",
+                        name: "Adamant Sq Shield",
                         lvl: 22,
                         type: 4,
                         def: [22, 24],
@@ -11200,7 +11200,7 @@ if (!self.__WB_pmw) {
                         req_str: 75
                     }, {
                         id: "gothicshield",
-                        name: "Gothic Shield",
+                        name: "Rune Sq Shield",
                         lvl: 30,
                         type: 4,
                         def: [30, 35],
@@ -11208,7 +11208,7 @@ if (!self.__WB_pmw) {
                         req_str: 60
                     }, {
                         id: "defender",
-                        name: "Defender",
+                        name: "Dragon Defender",
                         lvl: 39,
                         type: 4,
                         def: [41, 49],
@@ -11216,7 +11216,7 @@ if (!self.__WB_pmw) {
                         req_str: 38
                     }, {
                         id: "roundshield",
-                        name: "Round Shield",
+                        name: "Rune Kiteshield",
                         lvl: 42,
                         type: 4,
                         def: [47, 55],
@@ -11224,7 +11224,7 @@ if (!self.__WB_pmw) {
                         req_str: 53
                     }, {
                         id: "scutum",
-                        name: "Scutum",
+                        name: "Dragonfire Shield",
                         lvl: 47,
                         type: 4,
                         def: [53, 61],
@@ -11232,7 +11232,7 @@ if (!self.__WB_pmw) {
                         req_str: 71
                     }, {
                         id: "dragonshield",
-                        name: "Dragon Shield",
+                        name: "Anti-dragon Shield",
                         lvl: 50,
                         type: 4,
                         def: [59, 67],
@@ -11240,7 +11240,7 @@ if (!self.__WB_pmw) {
                         req_str: 91
                     }, {
                         id: "barbedshield",
-                        name: "Barbed Shield",
+                        name: "Dragon Sq Shield",
                         lvl: 47,
                         type: 4,
                         def: [68, 78],
@@ -11248,7 +11248,7 @@ if (!self.__WB_pmw) {
                         req_str: 65
                     }, {
                         id: "grimshield",
-                        name: "Grim Shield",
+                        name: "Spirit Shield",
                         lvl: 53,
                         type: 4,
                         def: [50, 150],
@@ -11256,7 +11256,7 @@ if (!self.__WB_pmw) {
                         req_str: 58
                     }, {
                         id: "pavise",
-                        name: "Pavise",
+                        name: "Blessed Spirit Shield",
                         lvl: 55,
                         type: 4,
                         def: [68, 78],
@@ -11264,7 +11264,7 @@ if (!self.__WB_pmw) {
                         req_str: 133
                     }, {
                         id: "ancientshield",
-                        name: "Ancient Shield",
+                        name: "Arcane Spirit Shield",
                         lvl: 61,
                         type: 4,
                         def: [80, 93],
@@ -11278,62 +11278,62 @@ if (!self.__WB_pmw) {
                         def: [2, 3]
                     }, {
                         id: "heavygloves",
-                        name: "Heavy Gloves",
+                        name: "Bronze Gloves",
                         lvl: 7,
                         type: 5,
                         def: [5, 6]
                     }, {
                         id: "chaingloves",
-                        name: "Chain Gloves",
+                        name: "Iron Gloves",
                         lvl: 12,
                         type: 5,
                         def: [8, 9],
                         req_str: 25
                     }, {
                         id: "lightgauntlets",
-                        name: "Light Gauntlets",
+                        name: "Steel Gloves",
                         lvl: 20,
                         type: 5,
                         def: [9, 11],
                         req_str: 45
                     }, {
                         id: "gauntlets",
-                        name: "Gauntlets",
+                        name: "Black Gloves",
                         lvl: 27,
                         type: 5,
                         def: [12, 15],
                         req_str: 60
                     }, {
                         id: "demonhidegloves",
-                        name: "Demonhide Gloves",
+                        name: "Mithril Gloves",
                         lvl: 38,
                         type: 5,
                         def: [28, 35],
                         req_str: 20
                     }, {
                         id: "sharkskingloves",
-                        name: "Sharkskin Gloves",
+                        name: "Adamant Gloves",
                         lvl: 44,
                         type: 5,
                         def: [33, 39],
                         req_str: 20
                     }, {
                         id: "heavybracers",
-                        name: "Heavy Bracers",
+                        name: "Rune Gloves",
                         lvl: 48,
                         type: 5,
                         def: [37, 44],
                         req_str: 58
                     }, {
                         id: "battlegauntlets",
-                        name: "Battle Gauntlets",
+                        name: "Dragon Gloves",
                         lvl: 54,
                         type: 5,
                         def: [39, 47],
                         req_str: 88
                     }, {
                         id: "wargauntlets",
-                        name: "War Gauntlers",
+                        name: "Barrows Gloves",
                         lvl: 59,
                         type: 5,
                         def: [43, 53],
@@ -11347,14 +11347,14 @@ if (!self.__WB_pmw) {
                         slots: 1
                     }, {
                         id: "lightbelt",
-                        name: "Light Belt",
+                        name: "Leather Belt",
                         lvl: 7,
                         type: 6,
                         def: [3, 3],
                         slots: 1
                     }, {
                         id: "belt",
-                        name: "Belt",
+                        name: "Studded Belt",
                         lvl: 12,
                         type: 6,
                         def: [5, 5],
@@ -11362,7 +11362,7 @@ if (!self.__WB_pmw) {
                         slots: 2
                     }, {
                         id: "heavybelt",
-                        name: "Heavy Belt",
+                        name: "Bronze Belt",
                         lvl: 20,
                         type: 6,
                         def: [6, 6],
@@ -11370,7 +11370,7 @@ if (!self.__WB_pmw) {
                         slots: 2
                     }, {
                         id: "platedbelt",
-                        name: "Plated Belt",
+                        name: "Iron Belt",
                         lvl: 27,
                         type: 6,
                         def: [8, 11],
@@ -11378,7 +11378,7 @@ if (!self.__WB_pmw) {
                         slots: 3
                     }, {
                         id: "demonhidesash",
-                        name: "Demonhide Sash",
+                        name: "Steel Belt",
                         lvl: 41,
                         type: 6,
                         def: [29, 34],
@@ -11386,7 +11386,7 @@ if (!self.__WB_pmw) {
                         slots: 3
                     }, {
                         id: "sharkskinbelt",
-                        name: "Sharkskin Belt",
+                        name: "Mithril Belt",
                         lvl: 44,
                         type: 6,
                         def: [31, 36],
@@ -11394,7 +11394,7 @@ if (!self.__WB_pmw) {
                         slots: 3
                     }, {
                         id: "meshbelt",
-                        name: "Mesh Belt",
+                        name: "Adamant Belt",
                         lvl: 48,
                         type: 6,
                         def: [35, 40],
@@ -11402,7 +11402,7 @@ if (!self.__WB_pmw) {
                         slots: 3
                     }, {
                         id: "battlebelt",
-                        name: "Battle Belt",
+                        name: "Rune Belt",
                         lvl: 54,
                         type: 6,
                         def: [37, 42],
@@ -11410,7 +11410,7 @@ if (!self.__WB_pmw) {
                         slots: 3
                     }, {
                         id: "warbelt",
-                        name: "War Belt",
+                        name: "Dragon Belt",
                         lvl: 59,
                         type: 6,
                         def: [41, 52],
@@ -11424,63 +11424,63 @@ if (!self.__WB_pmw) {
                         def: [2, 3]
                     }, {
                         id: "heavyboots",
-                        name: "Heavy Boots",
+                        name: "Climbing Boots",
                         lvl: 7,
                         type: 7,
                         def: [5, 6],
                         req_str: 18
                     }, {
                         id: "chainboots",
-                        name: "Chain Boots",
+                        name: "Bronze Boots",
                         lvl: 12,
                         type: 7,
                         def: [8, 9],
                         req_str: 30
                     }, {
                         id: "lightplatedboots",
-                        name: "Light Plated Boots",
+                        name: "Iron Boots",
                         lvl: 20,
                         type: 7,
                         def: [9, 11],
                         req_str: 50
                     }, {
                         id: "greaves",
-                        name: "Greaves",
+                        name: "Steel Boots",
                         lvl: 27,
                         type: 7,
                         def: [12, 15],
                         req_str: 70
                     }, {
                         id: "demonhideboots",
-                        name: "Demonhide Boots",
+                        name: "Mithril Boots",
                         lvl: 41,
                         type: 7,
                         def: [28, 35],
                         req_str: 20
                     }, {
                         id: "sharkskinboots",
-                        name: "Sharkskin Boots",
+                        name: "Adamant Boots",
                         lvl: 44,
                         type: 7,
                         def: [33, 39],
                         req_str: 47
                     }, {
                         id: "meshboots",
-                        name: "Mesh Boots",
+                        name: "Rune Boots",
                         lvl: 48,
                         type: 7,
                         def: [37, 44],
                         req_str: 65
                     }, {
                         id: "battleboots",
-                        name: "Battle Boots",
+                        name: "Dragon Boots",
                         lvl: 54,
                         type: 7,
                         def: [39, 47],
                         req_str: 95
                     }, {
                         id: "warboots",
-                        name: "War Boots",
+                        name: "Infinity Boots",
                         lvl: 59,
                         type: 7,
                         def: [45, 53],
@@ -11494,7 +11494,7 @@ if (!self.__WB_pmw) {
                     }],
                     F4 = [{
                         id: "minor_healing",
-                        name: "Minor healing potion",
+                        name: "Shrimps",
                         desc: "Restore life: 30",
                         lvl: 1,
                         type: -1,
@@ -11504,7 +11504,7 @@ if (!self.__WB_pmw) {
                         }
                     }, {
                         id: "light_healing",
-                        name: "Light healing potion",
+                        name: "Trout",
                         desc: "Restore life: 60",
                         lvl: 8,
                         type: -1,
@@ -11514,7 +11514,7 @@ if (!self.__WB_pmw) {
                         }
                     }, {
                         id: "healing",
-                        name: "Healing potion",
+                        name: "Lobster",
                         desc: "Restore life: 100",
                         lvl: 16,
                         type: -1,
@@ -11524,7 +11524,7 @@ if (!self.__WB_pmw) {
                         }
                     }, {
                         id: "greater_healing",
-                        name: "Greater Healing potion",
+                        name: "Shark",
                         desc: "Restore life: 180",
                         lvl: 24,
                         type: -1,
@@ -11534,7 +11534,7 @@ if (!self.__WB_pmw) {
                         }
                     }, {
                         id: "super_healing",
-                        name: "Super Healing potion",
+                        name: "Saradomin Brew",
                         desc: "Restore life: 320",
                         lvl: 32,
                         anylvlover: !0,
@@ -11545,7 +11545,7 @@ if (!self.__WB_pmw) {
                         }
                     }, {
                         id: "minor_mana",
-                        name: "Minor mana potion",
+                        name: "Prayer Potion (1)",
                         desc: "Restore mana: 30",
                         lvl: 1,
                         type: -1,
@@ -11555,7 +11555,7 @@ if (!self.__WB_pmw) {
                         }
                     }, {
                         id: "light_mana",
-                        name: "Light mana potion",
+                        name: "Prayer Potion (2)",
                         desc: "Restore mana: 60",
                         lvl: 8,
                         type: -1,
@@ -11565,7 +11565,7 @@ if (!self.__WB_pmw) {
                         }
                     }, {
                         id: "mana",
-                        name: "Mana potion",
+                        name: "Prayer Potion (3)",
                         desc: "Restore mana: 100",
                         lvl: 16,
                         type: -1,
@@ -11575,7 +11575,7 @@ if (!self.__WB_pmw) {
                         }
                     }, {
                         id: "greater_mana",
-                        name: "Greater Mana potion",
+                        name: "Prayer Potion (4)",
                         desc: "Restore mana: 180",
                         lvl: 24,
                         type: -1,
@@ -11585,7 +11585,7 @@ if (!self.__WB_pmw) {
                         }
                     }, {
                         id: "super_mana",
-                        name: "Super Mana potion",
+                        name: "Super Restore",
                         desc: "Restore mana: 320",
                         lvl: 32,
                         anylvlover: !0,
@@ -11596,7 +11596,7 @@ if (!self.__WB_pmw) {
                         }
                     }, {
                         id: "antidote",
-                        name: "Antidote",
+                        name: "Antipoison",
                         desc: "Cure from poison",
                         lvl: 6,
                         anylvlover: !0,
@@ -11607,7 +11607,7 @@ if (!self.__WB_pmw) {
                         }
                     }, {
                         id: "thawing",
-                        name: "Thawing Potion",
+                        name: "Antifreeze Potion",
                         desc: "Unfreeze",
                         lvl: 6,
                         anylvlover: !0,
@@ -11618,7 +11618,7 @@ if (!self.__WB_pmw) {
                         }
                     }, {
                         id: "strength",
-                        name: "Strength Potion",
+                        name: "Super Strength",
                         desc: "+10 strength (permanently)",
                         lvl: 1e3,
                         type: -1,
@@ -11628,7 +11628,7 @@ if (!self.__WB_pmw) {
                         }
                     }, {
                         id: "dexterity",
-                        name: "Dexterity Potion",
+                        name: "Ranging Potion",
                         desc: "+10 dexterity (permanently)",
                         lvl: 1e3,
                         type: -1,
@@ -11638,7 +11638,7 @@ if (!self.__WB_pmw) {
                         }
                     }, {
                         id: "vitality",
-                        name: "Vitality Potion",
+                        name: "Super Defence",
                         desc: "+10 vitality (permanently)",
                         lvl: 1e3,
                         type: -1,
@@ -11648,7 +11648,7 @@ if (!self.__WB_pmw) {
                         }
                     }, {
                         id: "energy",
-                        name: "Energy Potion",
+                        name: "Magic Potion",
                         desc: "+10 energy (permanently)",
                         lvl: 1e3,
                         type: -1,
@@ -12143,7 +12143,7 @@ if (!self.__WB_pmw) {
                         types: [1, 3, 5, 8],
                         lvl: 21
                     }, {
-                        suffix: "Vampire",
+                        suffix: "Vampyre",
                         effect: "msto_8_10",
                         types: [1, 3, 5, 8],
                         lvl: 43
@@ -12397,14 +12397,14 @@ if (!self.__WB_pmw) {
                         lvl: 30,
                         class: 1
                     }, {
-                        prefix: "Angel's",
+                        prefix: "Saradomin's",
                         effect: "skcl2_1",
                         types: [0, 1, 3],
                         wtypes: ["st"],
                         lvl: 12,
                         class: 2
                     }, {
-                        prefix: "Arch-Angel's",
+                        prefix: "Guthix's",
                         effect: "skcl2_2",
                         types: [0, 1, 3],
                         wtypes: ["st"],
@@ -12460,7 +12460,7 @@ if (!self.__WB_pmw) {
                         lvl: 12,
                         class: 3
                     }, {
-                        prefix: "Hierophant's",
+                        prefix: "Priest's",
                         effect: "skcl3_2",
                         types: [0, 1, 3],
                         wtypes: ["m"],
@@ -12539,12 +12539,12 @@ if (!self.__WB_pmw) {
                         types: [1, 2, 4, 8],
                         lvl: 30
                     }, {
-                        suffix: "Amicae",
+                        suffix: "Wealth",
                         effect: "dmgred_8_15",
                         types: [1, 2, 4, 8],
                         lvl: 40
                     }, {
-                        suffix: "Life Everlasting",
+                        suffix: "Everlife",
                         effect: "dmgred_10_25",
                         types: [1, 2, 4, 8],
                         lvl: 50
@@ -12629,18 +12629,18 @@ if (!self.__WB_pmw) {
                         plen: t => "Poison length -" + t + "%",
                         cast: t => "Cast rate +" + t + "%",
                         sk: (t, n, e) => "+" + t + " to " + n + " (" + e + " only)",
-                        skcl0: t => "+" + t + " to apprentice skills level",
-                        skcat00: t => "+" + t + " to Combat skills (apprentice only)",
-                        skcat01: t => "+" + t + " to Magic skills (apprentice only)",
-                        skcl1: t => "+" + t + " to barbarian skills level",
-                        skcat10: t => "+" + t + " to Masteries (barbarian only)",
-                        skcat11: t => "+" + t + " to Combat skills (barbarian only)",
-                        skcl2: t => "+" + t + " to sorceress skills level",
-                        skcat20: t => "+" + t + " to Fire skills (sorceress only)",
-                        skcat21: t => "+" + t + " to Cold skills (sorceress only)",
-                        skcl3: t => "+" + t + " to druid skills level",
-                        skcat30: t => "+" + t + " to Summoning skills (druid only)",
-                        skcat31: t => "+" + t + " to Shape Shifting skills (druid only)",
+                        skcl0: t => "+" + t + " to adventurer skills level",
+                        skcat00: t => "+" + t + " to Combat skills (adventurer only)",
+                        skcat01: t => "+" + t + " to Magic skills (adventurer only)",
+                        skcl1: t => "+" + t + " to warrior skills level",
+                        skcat10: t => "+" + t + " to Training (warrior only)",
+                        skcat11: t => "+" + t + " to Combat skills (warrior only)",
+                        skcl2: t => "+" + t + " to mage skills level",
+                        skcat20: t => "+" + t + " to Fire skills (mage only)",
+                        skcat21: t => "+" + t + " to Cold skills (mage only)",
+                        skcl3: t => "+" + t + " to summoner skills level",
+                        skcat30: t => "+" + t + " to Summoning skills (summoner only)",
+                        skcat31: t => "+" + t + " to Transformation skills (summoner only)",
                         skall: t => "+" + t + " to all skills",
                         autocast: t => "+" + t + " auto-cast",
                         lvlreq: t => "Reduce class & skills level requirements by " + t,
@@ -12648,7 +12648,7 @@ if (!self.__WB_pmw) {
                     },
                     L4 = {
                         horadricamulet: {
-                            name: "Horadric Amulet",
+                            name: "Amulet of Glory",
                             id: "amulet",
                             effects: ["skall_1", "resp_25", "life_10", "mana_10"],
                             lvlreq: 12,
@@ -12656,7 +12656,7 @@ if (!self.__WB_pmw) {
                             unique: !0
                         },
                         durielsring: {
-                            name: "Duriel's Ring",
+                            name: "Ring of Suffering",
                             id: "ring",
                             effects: ["resa_10", "redfrz_2", "stun_2", "plen_50"],
                             lvlreq: 16,
@@ -12664,7 +12664,7 @@ if (!self.__WB_pmw) {
                             unique: !0
                         },
                         skullcrusher: {
-                            name: "Skullcrusher",
+                            name: "Dragon Warhammer",
                             id: "warhammer",
                             effects: ["skcl1_1", "maxdmg_20", "dmgpct_200", "spd_10"],
                             lvlreq: 26,
@@ -12672,7 +12672,7 @@ if (!self.__WB_pmw) {
                             unique: !0
                         },
                         icewraith: {
-                            name: "Ice Wraith",
+                            name: "Ancient Staff",
                             id: "warstaff",
                             effects: ["skcl2_1", "skcat21_3", "sk_frozenorb_2", "sk_coldmastery_1", "resc_50", "redfrz_2", "cast_20"],
                             lvlreq: 30,
@@ -12680,7 +12680,7 @@ if (!self.__WB_pmw) {
                             unique: !0
                         },
                         avengerguard: {
-                            name: "Avenger Guard",
+                            name: "Void Melee Helm",
                             id: "greathelm",
                             effects: ["skcl1_2", "skcat11_2", "dmgpct_20", "resa_15", "life_20"],
                             def: 35,
@@ -12689,7 +12689,7 @@ if (!self.__WB_pmw) {
                             unique: !0
                         },
                         lightninghands: {
-                            name: "Lightning Hands",
+                            name: "Iban's Gloves",
                             id: "leathergloves",
                             effects: ["dex_20", "ldmg_1_60", "cast_20", "spd_20"],
                             lvlreq: 12,
@@ -12698,7 +12698,7 @@ if (!self.__WB_pmw) {
                             unique: !0
                         },
                         trollskin: {
-                            name: "Trollskin",
+                            name: "Trollheim Girdle",
                             id: "belt",
                             effects: ["life_50", "lifereg_200", "manareg_20", "resp_30", "pdmg_5_10"],
                             lvlreq: 18,
@@ -12707,7 +12707,7 @@ if (!self.__WB_pmw) {
                             unique: !0
                         },
                         firefeet: {
-                            name: "Firefeet",
+                            name: "Boots of Lightness",
                             id: "leatherboots",
                             effects: ["skcl0_2", "xp_50", "mana_40", "life_40"],
                             lvlreq: 1,
@@ -12716,7 +12716,7 @@ if (!self.__WB_pmw) {
                             unique: !0
                         },
                         mindseye: {
-                            name: "Mind's Eye",
+                            name: "Infinity Hat",
                             id: "skullcap",
                             effects: ["skcl2_1", "resa_12", "cast_10", "autocast_1", "defpct_200"],
                             lvlreq: 18,
@@ -12725,7 +12725,7 @@ if (!self.__WB_pmw) {
                             unique: !0
                         },
                         icering: {
-                            name: "Ice ring",
+                            name: "Seers Ring",
                             id: "ring",
                             effects: ["mana_25", "manareg_50", "resc_30", "redfrz_2", "sk_heat_3"],
                             lvlreq: 12,
@@ -12733,7 +12733,7 @@ if (!self.__WB_pmw) {
                             unique: !0
                         },
                         nagelring: {
-                            name: "Nagelring",
+                            name: "Ring of Wealth",
                             id: "ring",
                             effects: ["shard_25", "drop_40", "gold_200"],
                             lvlreq: 12,
@@ -12741,7 +12741,7 @@ if (!self.__WB_pmw) {
                             unique: !0
                         },
                         guardianofearth: {
-                            name: "Guardian of Earth",
+                            name: "Gadderhammer",
                             id: "cudgel",
                             effects: ["skcl3_2", "skcat30_3", "skcat31_1", "maxdmg_10", "dmgpct_150", "resf_25", "str_10"],
                             lvlreq: 36,
@@ -12749,7 +12749,7 @@ if (!self.__WB_pmw) {
                             unique: !0
                         },
                         eaglemask: {
-                            name: "Eagle Mask",
+                            name: "Crystal Eagle Mask",
                             id: "falconmask",
                             effects: ["skcl3_1", "skcat31_1", "defpct_65", "resl_50"],
                             def: 28,
@@ -12758,7 +12758,7 @@ if (!self.__WB_pmw) {
                             unique: !0
                         },
                         spiritkeeper: {
-                            name: "Spirit Keeper",
+                            name: "Familiar's Crown",
                             id: "alphahelm",
                             effects: ["skcl3_2", "skcat31_2", "sk_summonpixie_3", "resa_25", "plen_50", "stun_2"],
                             def: 62,
@@ -12767,7 +12767,7 @@ if (!self.__WB_pmw) {
                             unique: !0
                         },
                         travelersprotector: {
-                            name: "Traveler's protector",
+                            name: "Amulet of Fury",
                             id: "amulet",
                             effects: ["lvlreq_3"],
                             lvlreq: 1,
@@ -12775,7 +12775,7 @@ if (!self.__WB_pmw) {
                             unique: !0
                         },
                         deathguard: {
-                            name: "Death Guard",
+                            name: "Elysian Spirit Shield",
                             id: "grimshield",
                             effects: ["defpct_50", "bl_20", "fbl_20", "dmgred_20", "mdmgred_10"],
                             def: 150,
@@ -12784,7 +12784,7 @@ if (!self.__WB_pmw) {
                             unique: !0
                         },
                         elminstersplate: {
-                            name: "Elminster's plate",
+                            name: "Ancestral Robe Top",
                             id: "mageplate",
                             effects: ["defpct_120", "resa_30", "skall_3", "cast_15"],
                             def: 260,
@@ -12793,7 +12793,7 @@ if (!self.__WB_pmw) {
                             unique: !0
                         },
                         babrebayan: {
-                            name: "Babr-e Bayan",
+                            name: "Torva Platebody",
                             id: "ornateplate",
                             effects: ["defpct_150", "resf_50", "resc_50", "skall_2", "life_30"],
                             def: 450,
@@ -12802,7 +12802,7 @@ if (!self.__WB_pmw) {
                             unique: !0
                         },
                         jokulsnautr: {
-                            name: "J\xf6kulsnautr",
+                            name: "Excalibur",
                             id: "gothicsword",
                             effects: ["skall_1", "skcl1_1", "mindmg_11", "dmgpct_150", "spd_10", "lsto_10"],
                             lvlreq: 36,
@@ -12810,7 +12810,7 @@ if (!self.__WB_pmw) {
                             unique: !0
                         },
                         parashu: {
-                            name: "Parashu",
+                            name: "Dharok's Greataxe",
                             id: "giantaxe",
                             effects: ["mindmg_8", "maxdmg_12", "dmgpct_180", "cdmg_15_20", "shard_25", "ar_80"],
                             lvlreq: 42,
@@ -12818,7 +12818,7 @@ if (!self.__WB_pmw) {
                             unique: !0
                         },
                         studentsrobe: {
-                            name: "Student's robe",
+                            name: "Scholar's Robe",
                             id: "robe",
                             effects: ["defpct_800", "xp_100", "lvlreq_1", "resa_10"],
                             def: 17,
@@ -12827,7 +12827,7 @@ if (!self.__WB_pmw) {
                             unique: !0
                         },
                         goldencoat: {
-                            name: "Gloden Coat",
+                            name: "Gilded Chainbody",
                             id: "ringmail",
                             effects: ["defpct_100", "resf_15", "resp_25", "plen_50", "dmgred_5"],
                             def: 48,
@@ -12847,7 +12847,7 @@ if (!self.__WB_pmw) {
                     },
                     V4 = [{
                         id: "fallen",
-                        name: "Fallen",
+                        name: "Goblin",
                         lvl: 1,
                         hp: [8, 12],
                         spd: 1.4,
@@ -12857,7 +12857,7 @@ if (!self.__WB_pmw) {
                         max: 2
                     }, {
                         id: "fallenshaman",
-                        name: "Fallen Shaman",
+                        name: "Goblin Shaman",
                         lvl: 2,
                         hp: [12, 16],
                         spd: 1.2,
@@ -12881,7 +12881,7 @@ if (!self.__WB_pmw) {
                         undead: !0
                     }, {
                         id: "quillrat",
-                        name: "Quill Rat",
+                        name: "Giant Rat",
                         lvl: 1,
                         hp: [14, 16],
                         spd: 1.2,
@@ -12892,7 +12892,7 @@ if (!self.__WB_pmw) {
                         ranged: !0
                     }, {
                         id: "beast",
-                        name: "Gargantuan Beast",
+                        name: "Hill Giant",
                         lvl: 2,
                         hp: [20, 30],
                         spd: 1.4,
@@ -12913,7 +12913,7 @@ if (!self.__WB_pmw) {
                         undead: !0
                     }, {
                         id: "darkhunter",
-                        name: "Dark Hunter",
+                        name: "Dark Wizard",
                         lvl: 2,
                         hp: [22, 29],
                         spd: 1,
@@ -12923,7 +12923,7 @@ if (!self.__WB_pmw) {
                         max: 7
                     }, {
                         id: "hungrydead",
-                        name: "Hungry Dead",
+                        name: "Armoured Zombie",
                         lvl: 2,
                         hp: [30, 40],
                         spd: 2.2,
@@ -12934,7 +12934,7 @@ if (!self.__WB_pmw) {
                         undead: !0
                     }, {
                         id: "vilehunter",
-                        name: "Vile Hunter",
+                        name: "Highwayman",
                         lvl: 5,
                         hp: [35, 45],
                         spd: 1,
@@ -12944,7 +12944,7 @@ if (!self.__WB_pmw) {
                         max: 9
                     }, {
                         id: "moonclan",
-                        name: "Moon Clan",
+                        name: "Chaos Dwarf",
                         lvl: 4,
                         hp: [40, 50],
                         spd: 1.4,
@@ -12966,7 +12966,7 @@ if (!self.__WB_pmw) {
                         ranged: !0
                     }, {
                         id: "carver",
-                        name: "Carver",
+                        name: "Moss Giant",
                         lvl: 5,
                         hp: [25, 35],
                         spd: 1.2,
@@ -12976,7 +12976,7 @@ if (!self.__WB_pmw) {
                         max: 6
                     }, {
                         id: "carvershaman",
-                        name: "Carver Shaman",
+                        name: "Chaos Druid",
                         lvl: 6,
                         hp: [40, 55],
                         spd: 1.2,
@@ -12989,7 +12989,7 @@ if (!self.__WB_pmw) {
                         ranged: !0
                     }, {
                         id: "spikefiend",
-                        name: "Spike Fiend",
+                        name: "Bandit Archer",
                         lvl: 5,
                         hp: [35, 45],
                         spd: 1,
@@ -13000,7 +13000,7 @@ if (!self.__WB_pmw) {
                         ranged: !0
                     }, {
                         id: "nightclan",
-                        name: "Night Clan",
+                        name: "Barbarian",
                         lvl: 6,
                         hp: [50, 60],
                         spd: 1.4,
@@ -13010,7 +13010,7 @@ if (!self.__WB_pmw) {
                         max: 14
                     }, {
                         id: "returned",
-                        name: "Returned",
+                        name: "Vampyre",
                         lvl: 6,
                         hp: [50, 60],
                         spd: 2,
@@ -13021,7 +13021,7 @@ if (!self.__WB_pmw) {
                         undead: !0
                     }, {
                         id: "bloodclan",
-                        name: "Blood Clan",
+                        name: "Black Knight",
                         lvl: 7,
                         hp: [60, 70],
                         spd: 1.4,
@@ -13031,7 +13031,7 @@ if (!self.__WB_pmw) {
                         max: 14
                     }, {
                         id: "darkranger",
-                        name: "Dark Ranger",
+                        name: "Baby Blue Dragon",
                         lvl: 4,
                         hp: [50, 60],
                         spd: 1,
@@ -13053,7 +13053,7 @@ if (!self.__WB_pmw) {
                         undead: !0
                     }, {
                         id: "devilkin",
-                        name: "Devilkin",
+                        name: "Imp",
                         lvl: 7,
                         hp: [35, 45],
                         spd: 1,
@@ -13063,7 +13063,7 @@ if (!self.__WB_pmw) {
                         max: 10
                     }, {
                         id: "misshapen",
-                        name: "Misshapen",
+                        name: "Wizard",
                         lvl: 5,
                         hp: [50, 65],
                         spd: 1,
@@ -13075,7 +13075,7 @@ if (!self.__WB_pmw) {
                         ranged: !0
                     }, {
                         id: "vilearcher",
-                        name: "Vile Archer",
+                        name: "Ranger",
                         lvl: 5,
                         hp: [60, 70],
                         spd: 1,
@@ -13086,7 +13086,7 @@ if (!self.__WB_pmw) {
                         ranged: !0
                     }, {
                         id: "brute",
-                        name: "Brute",
+                        name: "Ogre",
                         lvl: 5,
                         hp: [70, 100],
                         spd: 1.5,
@@ -13096,7 +13096,7 @@ if (!self.__WB_pmw) {
                         max: 20
                     }, {
                         id: "returnedarcher",
-                        name: "Returned Archer",
+                        name: "Zombie Archer",
                         lvl: 8,
                         hp: [70, 80],
                         spd: 1,
@@ -13108,7 +13108,7 @@ if (!self.__WB_pmw) {
                         ranged: !0
                     }, {
                         id: "returnedmage",
-                        name: "Returned Mage",
+                        name: "Zombie Mage",
                         lvl: 8,
                         hp: [60, 70],
                         spd: 1,
@@ -13121,7 +13121,7 @@ if (!self.__WB_pmw) {
                         ranged: !0
                     }, {
                         id: "thornbeast",
-                        name: "Thorn Beast",
+                        name: "Thorny Snail",
                         lvl: 8,
                         hp: [60, 80],
                         spd: .9,
@@ -13132,7 +13132,7 @@ if (!self.__WB_pmw) {
                         ranged: !0
                     }, {
                         id: "darkstalker",
-                        name: "Dark Stalker",
+                        name: "Giant Spider",
                         lvl: 8,
                         hp: [80, 90],
                         spd: 1,
@@ -13142,7 +13142,7 @@ if (!self.__WB_pmw) {
                         max: 16
                     }, {
                         id: "bonewarrior",
-                        name: "Bone Warrior",
+                        name: "Skeleton Warrior",
                         lvl: 7,
                         hp: [60, 70],
                         spd: 1,
@@ -13164,7 +13164,7 @@ if (!self.__WB_pmw) {
                         ranged: !0
                     }, {
                         id: "disfigured",
-                        name: "Disfigured",
+                        name: "Apprentice Mage",
                         lvl: 8,
                         hp: [60, 70],
                         spd: 1,
@@ -13176,7 +13176,7 @@ if (!self.__WB_pmw) {
                         ranged: !0
                     }, {
                         id: "blackrogue",
-                        name: "Black Rogue",
+                        name: "Rogue",
                         lvl: 9,
                         hp: [90, 100],
                         spd: 1,
@@ -13186,7 +13186,7 @@ if (!self.__WB_pmw) {
                         max: 18
                     }, {
                         id: "yeti",
-                        name: "Yeti",
+                        name: "Ice Troll",
                         lvl: 9,
                         hp: [90, 120],
                         spd: 1.5,
@@ -13196,7 +13196,7 @@ if (!self.__WB_pmw) {
                         max: 26
                     }, {
                         id: "razorspine",
-                        name: "Razor Spine",
+                        name: "Cockatrice",
                         lvl: 9,
                         hp: [80, 100],
                         spd: .9,
@@ -13207,7 +13207,7 @@ if (!self.__WB_pmw) {
                         ranged: !0
                     }, {
                         id: "deathclan",
-                        name: "Death Clan",
+                        name: "Death Wing",
                         lvl: 10,
                         hp: [100, 120],
                         spd: 1,
@@ -13217,7 +13217,7 @@ if (!self.__WB_pmw) {
                         max: 22
                     }, {
                         id: "bonemage",
-                        name: "Bone Mage",
+                        name: "Skeleton Mage",
                         lvl: 10,
                         hp: [90, 100],
                         spd: 1,
@@ -13230,7 +13230,7 @@ if (!self.__WB_pmw) {
                         ranged: !0
                     }, {
                         id: "bonearcher",
-                        name: "Bone Archer",
+                        name: "Skeleton Ranger",
                         lvl: 9,
                         hp: [90, 100],
                         spd: 1,
@@ -13254,7 +13254,7 @@ if (!self.__WB_pmw) {
                         undead: !0
                     }, {
                         id: "darkone",
-                        name: "Dark One",
+                        name: "Dark Beast",
                         lvl: 10,
                         hp: [90, 100],
                         spd: 1,
@@ -13264,7 +13264,7 @@ if (!self.__WB_pmw) {
                         max: 16
                     }, {
                         id: "darkshaman",
-                        name: "Dark Shaman",
+                        name: "Necromancer",
                         lvl: 11,
                         hp: [100, 120],
                         spd: 1,
@@ -13277,7 +13277,7 @@ if (!self.__WB_pmw) {
                         ranged: !0
                     }, {
                         id: "tainted",
-                        name: "Tainted",
+                        name: "Shade",
                         lvl: 11,
                         hp: [100, 120],
                         spd: 1,
@@ -13300,7 +13300,7 @@ if (!self.__WB_pmw) {
                         undead: !0
                     }, {
                         id: "banished",
-                        name: "Banished",
+                        name: "Banshee",
                         lvl: 12,
                         hp: [90, 120],
                         spd: 1,
@@ -13314,7 +13314,7 @@ if (!self.__WB_pmw) {
                         hitall: !0
                     }, {
                         id: "sandraider",
-                        name: "Sandraider",
+                        name: "Desert Bandit",
                         lvl: 13,
                         hp: [200, 240],
                         spd: .9,
@@ -13324,7 +13324,7 @@ if (!self.__WB_pmw) {
                         max: 32
                     }, {
                         id: "burningdead",
-                        name: "Burning Dead",
+                        name: "Mummy",
                         lvl: 13,
                         hp: [180, 220],
                         spd: 1,
@@ -13335,7 +13335,7 @@ if (!self.__WB_pmw) {
                         undead: !0
                     }, {
                         id: "burningdeadarcher",
-                        name: "Burning Dead Archer",
+                        name: "Mummy Archer",
                         lvl: 13,
                         hp: [160, 200],
                         spd: 1,
@@ -13348,7 +13348,7 @@ if (!self.__WB_pmw) {
                         ranged: !0
                     }, {
                         id: "burningdeadmage",
-                        name: "Burning Dead Mage",
+                        name: "Mummy Mage",
                         lvl: 14,
                         hp: [160, 200],
                         spd: 1,
@@ -13361,7 +13361,7 @@ if (!self.__WB_pmw) {
                         ranged: !0
                     }, {
                         id: "driedcorpse",
-                        name: "Dried Corpse",
+                        name: "Rotting Mummy",
                         lvl: 13,
                         hp: [180, 200],
                         spd: 1.2,
@@ -13373,7 +13373,7 @@ if (!self.__WB_pmw) {
                         undead: !0
                     }, {
                         id: "huntress",
-                        name: "Huntress",
+                        name: "Menaphite Thug",
                         lvl: 14,
                         hp: [220, 260],
                         spd: .9,
@@ -13383,7 +13383,7 @@ if (!self.__WB_pmw) {
                         max: 30
                     }, {
                         id: "hollowone",
-                        name: "Hollow One",
+                        name: "Mummy Priest",
                         lvl: 15,
                         hp: [240, 280],
                         spd: 1,
@@ -13397,7 +13397,7 @@ if (!self.__WB_pmw) {
                         ranged: !0
                     }, {
                         id: "carrionbird",
-                        name: "Carrion Bird",
+                        name: "Vulture",
                         lvl: 14,
                         hp: [240, 280],
                         spd: 1,
@@ -13407,7 +13407,7 @@ if (!self.__WB_pmw) {
                         max: 30
                     }, {
                         id: "dungsoldier",
-                        name: "Dung Soldier",
+                        name: "Kharidian Warrior",
                         lvl: 14,
                         hp: [200, 220],
                         spd: 1,
@@ -13418,7 +13418,7 @@ if (!self.__WB_pmw) {
                         type: "l"
                     }, {
                         id: "slinger",
-                        name: "Slinger",
+                        name: "Desert Slinger",
                         lvl: 14,
                         hp: [200, 260],
                         spd: 1,
@@ -13429,7 +13429,7 @@ if (!self.__WB_pmw) {
                         ranged: !0
                     }, {
                         id: "horror",
-                        name: "Horror",
+                        name: "Skeletal Horror",
                         lvl: 14,
                         hp: [200, 260],
                         spd: 1,
@@ -13440,7 +13440,7 @@ if (!self.__WB_pmw) {
                         undead: !0
                     }, {
                         id: "horrorarcher",
-                        name: "Horror Archer",
+                        name: "Skeletal Archer",
                         lvl: 15,
                         hp: [260, 300],
                         spd: 1,
@@ -13453,7 +13453,7 @@ if (!self.__WB_pmw) {
                         ranged: !0
                     }, {
                         id: "horrormage",
-                        name: "Horror Mage",
+                        name: "Skeletal Wizard",
                         lvl: 17,
                         hp: [300, 340],
                         spd: 1,
@@ -13466,7 +13466,7 @@ if (!self.__WB_pmw) {
                         ranged: !0
                     }, {
                         id: "sabercat",
-                        name: "Saber Cat",
+                        name: "Kyatt",
                         lvl: 15,
                         hp: [300, 320],
                         spd: .9,
@@ -13476,7 +13476,7 @@ if (!self.__WB_pmw) {
                         max: 32
                     }, {
                         id: "spearcat",
-                        name: "Spear Cat",
+                        name: "Larupia",
                         lvl: 15,
                         hp: [280, 340],
                         spd: 1,
@@ -13486,7 +13486,7 @@ if (!self.__WB_pmw) {
                         max: 32
                     }, {
                         id: "undeadscavenger",
-                        name: "Undead Scavenger",
+                        name: "Tomb Scavenger",
                         lvl: 15,
                         hp: [280, 320],
                         spd: 1,
@@ -13497,7 +13497,7 @@ if (!self.__WB_pmw) {
                         undead: !0
                     }, {
                         id: "decayed",
-                        name: "Decayed",
+                        name: "Rotten Mummy",
                         lvl: 15,
                         hp: [300, 380],
                         spd: 1.2,
@@ -13509,7 +13509,7 @@ if (!self.__WB_pmw) {
                         undead: !0
                     }, {
                         id: "desertwing",
-                        name: "Desert Wing",
+                        name: "Desert Lizard",
                         lvl: 15,
                         hp: [280, 360],
                         spd: 1,
@@ -13520,7 +13520,7 @@ if (!self.__WB_pmw) {
                         type: "l"
                     }, {
                         id: "deathbeetle",
-                        name: "Death Beetle",
+                        name: "Dung Beetle",
                         lvl: 16,
                         hp: [220, 360],
                         spd: 1,
@@ -13531,7 +13531,7 @@ if (!self.__WB_pmw) {
                         type: "l"
                     }, {
                         id: "sandmaggot",
-                        name: "Sand Maggot",
+                        name: "Kalphite Soldier",
                         lvl: 16,
                         hp: [300, 400],
                         spd: 1,
@@ -13544,7 +13544,7 @@ if (!self.__WB_pmw) {
                         ranged: !0
                     }, {
                         id: "sandmaggotyoung",
-                        name: "Sand Maggot Young",
+                        name: "Kalphite Worker",
                         lvl: 16,
                         hp: [280, 300],
                         spd: 1,
@@ -13554,7 +13554,7 @@ if (!self.__WB_pmw) {
                         max: 28
                     }, {
                         id: "rockworm",
-                        name: "Rock Worm",
+                        name: "Kalphite Guardian",
                         lvl: 17,
                         hp: [360, 440],
                         spd: 1,
@@ -13567,7 +13567,7 @@ if (!self.__WB_pmw) {
                         ranged: !0
                     }, {
                         id: "rockwormyoung",
-                        name: "Rock Worm Young",
+                        name: "Kalphite Larva",
                         lvl: 17,
                         hp: [300, 320],
                         spd: 1,
@@ -13588,7 +13588,7 @@ if (!self.__WB_pmw) {
                         type: "l"
                     }, {
                         id: "plaguebearer",
-                        name: "Plague Bearer",
+                        name: "Pestilent Mummy",
                         lvl: 17,
                         hp: [360, 460],
                         spd: 1.2,
@@ -13600,7 +13600,7 @@ if (!self.__WB_pmw) {
                         undead: !0
                     }, {
                         id: "nighttiger",
-                        name: "Night Tiger",
+                        name: "Tiger",
                         lvl: 17,
                         hp: [340, 460],
                         spd: .9,
@@ -13610,7 +13610,7 @@ if (!self.__WB_pmw) {
                         max: 46
                     }, {
                         id: "nightslinger",
-                        name: "Night Slinger",
+                        name: "Bandit Slinger",
                         lvl: 17,
                         hp: [340, 440],
                         spd: 1,
@@ -13621,7 +13621,7 @@ if (!self.__WB_pmw) {
                         ranged: !0
                     }, {
                         id: "marauder",
-                        name: "Marauder",
+                        name: "Pirate",
                         lvl: 17,
                         hp: [440, 500],
                         spd: .9,
@@ -13631,7 +13631,7 @@ if (!self.__WB_pmw) {
                         max: 52
                     }, {
                         id: "embalmed",
-                        name: "Embalmed",
+                        name: "Embalmed Mummy",
                         lvl: 18,
                         hp: [480, 550],
                         spd: 1.2,
@@ -13643,7 +13643,7 @@ if (!self.__WB_pmw) {
                         undead: !0
                     }, {
                         id: "invader",
-                        name: "Invader",
+                        name: "Bandit Champion",
                         lvl: 18,
                         hp: [550, 600],
                         spd: .9,
@@ -13653,7 +13653,7 @@ if (!self.__WB_pmw) {
                         max: 54
                     }, {
                         id: "guardian",
-                        name: "Guardian",
+                        name: "Tomb Guardian",
                         lvl: 16,
                         hp: [460, 520],
                         spd: 1,
@@ -13667,7 +13667,7 @@ if (!self.__WB_pmw) {
                         ranged: !0
                     }, {
                         id: "clawviper",
-                        name: "Claw Viper",
+                        name: "Snake",
                         lvl: 15,
                         hp: [520, 540],
                         spd: .9,
@@ -13687,7 +13687,7 @@ if (!self.__WB_pmw) {
                         max: 54
                     }, {
                         id: "blunderbore",
-                        name: "Blunderbore",
+                        name: "Cyclops",
                         lvl: 18,
                         hp: [700, 800],
                         spd: 1.1,
@@ -13698,7 +13698,7 @@ if (!self.__WB_pmw) {
                         stun: [.1, 1]
                     }, {
                         id: "dunebeast",
-                        name: "Dune Beast",
+                        name: "Rock Golem",
                         lvl: 18,
                         hp: [680, 720],
                         spd: 1,
@@ -13708,7 +13708,7 @@ if (!self.__WB_pmw) {
                         max: 54
                     }, {
                         id: "hellclan",
-                        name: "Hell Clan",
+                        name: "Lesser Demon",
                         lvl: 19,
                         hp: [740, 800],
                         spd: 1,
@@ -13718,7 +13718,7 @@ if (!self.__WB_pmw) {
                         max: 60
                     }, {
                         id: "ghoullord",
-                        name: "Ghoul Lord",
+                        name: "Ghoul Champion",
                         lvl: 19,
                         hp: [680, 780],
                         spd: 1,
@@ -13732,7 +13732,7 @@ if (!self.__WB_pmw) {
                         hitall: !0
                     }, {
                         id: "specter",
-                        name: "Specter",
+                        name: "Aberrant Spectre",
                         lvl: 19,
                         hp: [680, 740],
                         spd: 1,
@@ -13744,7 +13744,7 @@ if (!self.__WB_pmw) {
                         burn: !0
                     }, {
                         id: "hellcat",
-                        name: "Hell Cat",
+                        name: "Hellcat",
                         lvl: 19,
                         hp: [680, 740],
                         spd: .9,
@@ -13754,7 +13754,7 @@ if (!self.__WB_pmw) {
                         max: 50
                     }, {
                         id: "hellslinger",
-                        name: "Hell Slinger",
+                        name: "Chaos Slinger",
                         lvl: 19,
                         hp: [700, 720],
                         spd: 1,
@@ -13765,7 +13765,7 @@ if (!self.__WB_pmw) {
                         ranged: !0
                     }, {
                         id: "devourer",
-                        name: "Devourer",
+                        name: "Desert Wyrm",
                         lvl: 19,
                         hp: [700, 800],
                         spd: 1,
@@ -13778,7 +13778,7 @@ if (!self.__WB_pmw) {
                         ranged: !0
                     }, {
                         id: "devoureryoung",
-                        name: "Devourer Young",
+                        name: "Wyrmling",
                         lvl: 19,
                         hp: [500, 600],
                         spd: 1,
@@ -13788,7 +13788,7 @@ if (!self.__WB_pmw) {
                         max: 36
                     }, {
                         id: "steelscarab",
-                        name: "Steel Scarab",
+                        name: "Armoured Scarab",
                         lvl: 19,
                         hp: [680, 740],
                         spd: 1,
@@ -13799,7 +13799,7 @@ if (!self.__WB_pmw) {
                         type: "l"
                     }, {
                         id: "crusher",
-                        name: "Crusher",
+                        name: "Stone Giant",
                         lvl: 19,
                         hp: [800, 860],
                         spd: 1,
@@ -13809,7 +13809,7 @@ if (!self.__WB_pmw) {
                         max: 60
                     }, {
                         id: "gorebelly",
-                        name: "Gorebelly",
+                        name: "Kalphite Queen",
                         lvl: 20,
                         hp: [840, 900],
                         spd: 1.1,
@@ -13821,7 +13821,7 @@ if (!self.__WB_pmw) {
                         hitall: !0
                     }, {
                         id: "unraveler",
-                        name: "Unraveler",
+                        name: "Tomb Necromancer",
                         lvl: 20,
                         hp: [800, 820],
                         spd: 1,
@@ -13835,7 +13835,7 @@ if (!self.__WB_pmw) {
                         ranged: !0
                     }, {
                         id: "apparition",
-                        name: "Apparition",
+                        name: "Ghost Warrior",
                         lvl: 20,
                         hp: [780, 820],
                         spd: 1,
@@ -13847,7 +13847,7 @@ if (!self.__WB_pmw) {
                         burn: !0
                     }, {
                         id: "preserveddead",
-                        name: "Preserved Dead",
+                        name: "Preserved Mummy",
                         lvl: 23,
                         hp: [900, 940],
                         spd: 1.2,
@@ -13859,7 +13859,7 @@ if (!self.__WB_pmw) {
                         undead: !0
                     }, {
                         id: "fetish",
-                        name: "Fetish",
+                        name: "Tribesman",
                         lvl: 23,
                         hp: [1800, 2e3],
                         spd: 1,
@@ -13869,7 +13869,7 @@ if (!self.__WB_pmw) {
                         max: 66
                     }, {
                         id: "fetishshaman",
-                        name: "Fetish Shaman",
+                        name: "Witch Doctor",
                         lvl: 24,
                         hp: [2200, 2400],
                         spd: 1.2,
@@ -13883,7 +13883,7 @@ if (!self.__WB_pmw) {
                         ranged: !0
                     }, {
                         id: "cloudstalker",
-                        name: "Cloud Stalker",
+                        name: "Jungle Panther",
                         lvl: 24,
                         hp: [2200, 2500],
                         spd: 1,
@@ -13893,7 +13893,7 @@ if (!self.__WB_pmw) {
                         max: 76
                     }, {
                         id: "thornedhulk",
-                        name: "Thorned Hulk",
+                        name: "Jungle Troll",
                         lvl: 23,
                         hp: [2400, 2600],
                         spd: 1.1,
@@ -13904,7 +13904,7 @@ if (!self.__WB_pmw) {
                         stun: [.15, 2]
                     }, {
                         id: "junglehunter",
-                        name: "Jungle Hunter",
+                        name: "Jungle Savage",
                         lvl: 23,
                         hp: [2300, 2500],
                         spd: 1,
@@ -13914,7 +13914,7 @@ if (!self.__WB_pmw) {
                         max: 80
                     }, {
                         id: "flamespider",
-                        name: "Flame Spider",
+                        name: "Fire Spider",
                         lvl: 24,
                         hp: [2300, 2500],
                         spd: 1,
@@ -13925,7 +13925,7 @@ if (!self.__WB_pmw) {
                         type: "f"
                     }, {
                         id: "poisonspinner",
-                        name: "Poison Spinner",
+                        name: "Poison Spider",
                         lvl: 23,
                         hp: [2300, 2500],
                         spd: 1,
@@ -13936,7 +13936,7 @@ if (!self.__WB_pmw) {
                         type: "p"
                     }, {
                         id: "fiend",
-                        name: "Fiend",
+                        name: "Greater Demon",
                         lvl: 21,
                         hp: [2e3, 2400],
                         spd: 1,
@@ -13947,7 +13947,7 @@ if (!self.__WB_pmw) {
                         type: "l"
                     }, {
                         id: "giantlamprey",
-                        name: "Giant lamprey",
+                        name: "Giant Eel",
                         lvl: 22,
                         hp: [2e3, 2200],
                         spd: 1.2,
@@ -13959,7 +13959,7 @@ if (!self.__WB_pmw) {
                         ranged: !0
                     }, {
                         id: "giantlampreyyoung",
-                        name: "Giant lamprey Young",
+                        name: "Baby Eel",
                         lvl: 22,
                         hp: [1600, 1800],
                         spd: 1,
@@ -13969,7 +13969,7 @@ if (!self.__WB_pmw) {
                         max: 36
                     }, {
                         id: "gloam",
-                        name: "Gloam",
+                        name: "Ghast",
                         lvl: 23,
                         hp: [2e3, 2200],
                         spd: 1.1,
@@ -13982,7 +13982,7 @@ if (!self.__WB_pmw) {
                         undead: !0
                     }, {
                         id: "drownedcarcass",
-                        name: "Drowned Carcass",
+                        name: "Drowned Corpse",
                         lvl: 23,
                         hp: [2400, 2600],
                         spd: 1.4,
@@ -13994,7 +13994,7 @@ if (!self.__WB_pmw) {
                         undead: !0
                     }, {
                         id: "riverstalker",
-                        name: "River Stalker",
+                        name: "River Troll",
                         lvl: 23,
                         hp: [2e3, 2200],
                         spd: 1,
@@ -14006,7 +14006,7 @@ if (!self.__WB_pmw) {
                         ranged: !0
                     }, {
                         id: "bramblehulk",
-                        name: "Bramble Hulk",
+                        name: "Mountain Troll",
                         lvl: 24,
                         hp: [2600, 2800],
                         spd: 1.1,
@@ -14017,7 +14017,7 @@ if (!self.__WB_pmw) {
                         stun: [.2, 2]
                     }, {
                         id: "flayer",
-                        name: "Flayer",
+                        name: "Tribal Warrior",
                         lvl: 24,
                         hp: [2e3, 2200],
                         spd: .8,
@@ -14027,7 +14027,7 @@ if (!self.__WB_pmw) {
                         max: 70
                     }, {
                         id: "flayershaman",
-                        name: "Flayer Shaman",
+                        name: "Tribal Shaman",
                         lvl: 25,
                         hp: [2400, 2600],
                         spd: 1.2,
@@ -14041,7 +14041,7 @@ if (!self.__WB_pmw) {
                         ranged: !0
                     }, {
                         id: "soulkiller",
-                        name: "Soul Killer",
+                        name: "Jungle Ranger",
                         lvl: 25,
                         hp: [2200, 2400],
                         spd: 1,
@@ -14052,7 +14052,7 @@ if (!self.__WB_pmw) {
                         ranged: !0
                     }, {
                         id: "soulkillershaman",
-                        name: "Soul Killer Shaman",
+                        name: "Jungle Shaman",
                         lvl: 26,
                         hp: [2600, 2800],
                         spd: 1.2,
@@ -14066,7 +14066,7 @@ if (!self.__WB_pmw) {
                         ranged: !0
                     }, {
                         id: "wingednightmare",
-                        name: "Winged Nightmare",
+                        name: "Gargoyle",
                         lvl: 26,
                         hp: [2800, 3200],
                         spd: 1.1,
@@ -14079,7 +14079,7 @@ if (!self.__WB_pmw) {
                         undead: !0
                     }, {
                         id: "waterwatcher",
-                        name: "Water Watcher",
+                        name: "Giant Frog",
                         lvl: 21,
                         hp: [2e3, 2200],
                         spd: 1.4,
@@ -14091,7 +14091,7 @@ if (!self.__WB_pmw) {
                         ranged: !0
                     }, {
                         id: "undeadflayer",
-                        name: "Undead Flayer",
+                        name: "Undead Warrior",
                         lvl: 25,
                         hp: [2e3, 2200],
                         spd: .9,
@@ -14103,7 +14103,7 @@ if (!self.__WB_pmw) {
                         undead: !0
                     }, {
                         id: "undeadsoulkiller",
-                        name: "Undead Soul Killer",
+                        name: "Undead Ranger",
                         lvl: 26,
                         hp: [2200, 2400],
                         spd: .9,
@@ -14115,7 +14115,7 @@ if (!self.__WB_pmw) {
                         undead: !0
                     }, {
                         id: "undeadstygiandoll",
-                        name: "Undead Stygian Doll",
+                        name: "Cursed Idol",
                         lvl: 27,
                         hp: [2400, 2600],
                         spd: .9,
@@ -14127,7 +14127,7 @@ if (!self.__WB_pmw) {
                         undead: !0
                     }, {
                         id: "darkshape",
-                        name: "Dark Shape",
+                        name: "Shadow",
                         lvl: 25,
                         hp: [2400, 2600],
                         spd: 1,
@@ -14139,7 +14139,7 @@ if (!self.__WB_pmw) {
                         burn: !0
                     }, {
                         id: "gloombat",
-                        name: "Gloom Bat",
+                        name: "Giant Bat",
                         lvl: 25,
                         hp: [2600, 2800],
                         spd: 1,
@@ -14150,7 +14150,7 @@ if (!self.__WB_pmw) {
                         type: "l"
                     }, {
                         id: "hellbuzzard",
-                        name: "Hell Buzzard",
+                        name: "Bloodveld",
                         lvl: 25,
                         hp: [2800, 3e3],
                         spd: 1,
@@ -14161,7 +14161,7 @@ if (!self.__WB_pmw) {
                         undead: !0
                     }, {
                         id: "zakarumite",
-                        name: "Zakarumite",
+                        name: "Zamorak Follower",
                         lvl: 24,
                         hp: [2600, 2800],
                         spd: 1,
@@ -14171,7 +14171,7 @@ if (!self.__WB_pmw) {
                         max: 92
                     }, {
                         id: "treelurker",
-                        name: "Tree Lurker",
+                        name: "Dryad",
                         lvl: 25,
                         hp: [2600, 2800],
                         spd: .8,
@@ -14181,7 +14181,7 @@ if (!self.__WB_pmw) {
                         max: 92
                     }, {
                         id: "doomape",
-                        name: "Doom Ape",
+                        name: "Ape",
                         lvl: 25,
                         hp: [2800, 3e3],
                         spd: 1,
@@ -14191,7 +14191,7 @@ if (!self.__WB_pmw) {
                         max: 92
                     }, {
                         id: "thrasher",
-                        name: "Thrasher",
+                        name: "Ent",
                         lvl: 27,
                         hp: [3600, 4e3],
                         spd: 1.1,
@@ -14202,7 +14202,7 @@ if (!self.__WB_pmw) {
                         stun: [.2, 3]
                     }, {
                         id: "faithful",
-                        name: "Faithful",
+                        name: "Zamorak Initiate",
                         lvl: 26,
                         hp: [3200, 3600],
                         spd: 1,
@@ -14212,7 +14212,7 @@ if (!self.__WB_pmw) {
                         max: 100
                     }, {
                         id: "sexton",
-                        name: "Sexton",
+                        name: "Zamorak Priest",
                         lvl: 26,
                         hp: [3200, 3600],
                         spd: 1,
@@ -14226,7 +14226,7 @@ if (!self.__WB_pmw) {
                         ranged: !0
                     }, {
                         id: "hellswarm",
-                        name: "Hell Swarm",
+                        name: "Abyssal Demon",
                         lvl: 26,
                         hp: [4e3, 4400],
                         spd: 1,
@@ -14236,7 +14236,7 @@ if (!self.__WB_pmw) {
                         max: 100
                     }, {
                         id: "fleshhunter",
-                        name: "Flesh Hunter",
+                        name: "Aviansie",
                         lvl: 27,
                         hp: [3600, 3800],
                         spd: .9,
@@ -14246,7 +14246,7 @@ if (!self.__WB_pmw) {
                         max: 100
                     }, {
                         id: "wailingbeast",
-                        name: "Wailing Beast",
+                        name: "Screaming Banshee",
                         lvl: 27,
                         hp: [3600, 3800],
                         spd: 1,
@@ -14257,7 +14257,7 @@ if (!self.__WB_pmw) {
                         stun: [.4, .5]
                     }, {
                         id: "spidermagus",
-                        name: "Spider Magus",
+                        name: "Spiritual Mage",
                         lvl: 27,
                         hp: [3600, 3800],
                         spd: 1,
@@ -14268,7 +14268,7 @@ if (!self.__WB_pmw) {
                         type: "p"
                     }, {
                         id: "nightlord",
-                        name: "Night Lord",
+                        name: "Vyrewatch",
                         lvl: 27,
                         hp: [3400, 3800],
                         spd: 1.1,
@@ -14282,7 +14282,7 @@ if (!self.__WB_pmw) {
                         undead: !0
                     }, {
                         id: "preserveddead",
-                        name: "Preserved Dead",
+                        name: "Preserved Mummy",
                         lvl: 27,
                         hp: [4e3, 4400],
                         spd: 1.4,
@@ -14293,7 +14293,7 @@ if (!self.__WB_pmw) {
                         type: "p"
                     }, {
                         id: "horadrimancient",
-                        name: "Horadrim Ancient",
+                        name: "Ancient Wizard",
                         lvl: 27,
                         hp: [4e3, 4200],
                         spd: 1,
@@ -14307,7 +14307,7 @@ if (!self.__WB_pmw) {
                         ranged: !0
                     }, {
                         id: "stygianwatcher",
-                        name: "Stygian Watcher",
+                        name: "Cave Horror",
                         lvl: 26,
                         hp: [2800, 3600],
                         spd: 1.4,
@@ -14319,7 +14319,7 @@ if (!self.__WB_pmw) {
                         ranged: !0
                     }, {
                         id: "zealot",
-                        name: "Zealot",
+                        name: "Zamorak Zealot",
                         lvl: 28,
                         hp: [4e3, 4400],
                         spd: 1,
@@ -14329,7 +14329,7 @@ if (!self.__WB_pmw) {
                         max: 110
                     }, {
                         id: "cantor",
-                        name: "Cantor",
+                        name: "Zamorak Wizard",
                         lvl: 27,
                         hp: [3600, 4e3],
                         spd: 1,
@@ -14343,7 +14343,7 @@ if (!self.__WB_pmw) {
                         ranged: !0
                     }, {
                         id: "serpentmagus",
-                        name: "Serpent Magus",
+                        name: "Serpent Shaman",
                         lvl: 28,
                         hp: [4e3, 4800],
                         spd: .9,
@@ -14365,7 +14365,7 @@ if (!self.__WB_pmw) {
                         type: "l"
                     }, {
                         id: "blooddiver",
-                        name: "Blood Diver",
+                        name: "Blood Reaver",
                         lvl: 28,
                         hp: [3600, 4400],
                         spd: 1,
@@ -14376,7 +14376,7 @@ if (!self.__WB_pmw) {
                         type: "l"
                     }, {
                         id: "flesharcher",
-                        name: "Flesh Archer",
+                        name: "Flesh Crawler",
                         lvl: 28,
                         hp: [3600, 4400],
                         spd: 1,
@@ -14388,7 +14388,7 @@ if (!self.__WB_pmw) {
                         ranged: !0
                     }, {
                         id: "templeguard",
-                        name: "Temple Guard",
+                        name: "Temple Knight",
                         lvl: 29,
                         hp: [4400, 5200],
                         spd: 1,
@@ -14398,7 +14398,7 @@ if (!self.__WB_pmw) {
                         max: 140
                     }, {
                         id: "infidel",
-                        name: "Infidel",
+                        name: "Zamorak Cultist",
                         lvl: 29,
                         hp: [4800, 5200],
                         spd: 1,
@@ -14408,7 +14408,7 @@ if (!self.__WB_pmw) {
                         max: 120
                     }, {
                         id: "heirophant",
-                        name: "Heirophant",
+                        name: "Zamorak Cleric",
                         lvl: 29,
                         hp: [4400, 4800],
                         spd: 1,
@@ -14422,7 +14422,7 @@ if (!self.__WB_pmw) {
                         ranged: !0
                     }, {
                         id: "cadaver",
-                        name: "Cadaver",
+                        name: "Revenant Imp",
                         lvl: 30,
                         hp: [5600, 6e3],
                         spd: 1.8,
@@ -14434,7 +14434,7 @@ if (!self.__WB_pmw) {
                         undead: !0
                     }, {
                         id: "darklord",
-                        name: "Dark Lord",
+                        name: "Revenant Knight",
                         lvl: 29,
                         hp: [5e3, 5600],
                         spd: 1.1,
@@ -14448,7 +14448,7 @@ if (!self.__WB_pmw) {
                         undead: !0
                     }, {
                         id: "bloodlord",
-                        name: "Blood Lord",
+                        name: "Revenant Dragon",
                         lvl: 30,
                         hp: [6e3, 6400],
                         spd: 1.1,
@@ -14462,7 +14462,7 @@ if (!self.__WB_pmw) {
                         undead: !0
                     }, {
                         id: "mauler",
-                        name: "Mauler",
+                        name: "Dagannoth",
                         lvl: 30,
                         hp: [7e3, 8e3],
                         spd: 1.1,
@@ -14473,7 +14473,7 @@ if (!self.__WB_pmw) {
                         stun: [.2, 3]
                     }, {
                         id: "councilmember",
-                        name: "Council Member",
+                        name: "God Wars Disciple",
                         lvl: 31,
                         hp: [8e3, 9e3],
                         spd: 1,
@@ -14485,177 +14485,177 @@ if (!self.__WB_pmw) {
                     H4 = [
                         [{
                             id: "encampment",
-                            name: "Rogue Encampment",
+                            name: "Lumbridge",
                             m: [],
                             home: !0
                         }, {
                             id: "bloodmore",
-                            name: "Blood Moor",
+                            name: "Lumbridge Swamp",
                             m: ["fallen", "zombie", "quillrat"]
                         }, {
                             id: "denofevil",
-                            name: "Den of Evil",
+                            name: "Lumbridge Swamp Caves",
                             m: ["fallen", "fallenshaman", "zombie", "beast"],
                             special: {
-                                name: "Corpsefire",
+                                name: "Bryophyta",
                                 type: "zombie",
                                 modif: ["hp_4", "t_f"],
                                 lvl: 1
                             }
                         }, {
                             id: "coldplains",
-                            name: "Cold Plains",
+                            name: "Goblin Village",
                             m: ["fallen", "fallenshaman", "beast", "darkhunter"],
                             special: {
-                                name: "Bishibosh",
+                                name: "Bentnoze",
                                 type: "fallenshaman",
                                 modif: ["hp_2", "dmg_2"],
                                 lvl: 1
                             }
                         }, {
                             id: "cave",
-                            name: "Cave",
+                            name: "Edgeville Dungeon",
                             m: ["fallen", "fallenshaman", "skeleton", "zombie", "darkhunter"],
                             special: {
-                                name: "Coldcrow",
+                                name: "Obor",
                                 type: "darkhunter",
                                 modif: ["hp_2", "t_c"],
                                 lvl: 1
                             }
                         }, {
                             id: "burialgrounds",
-                            name: "Burial Grounds",
+                            name: "Barrows Hill",
                             m: ["skeleton", "hungrydead"],
                             special: {
-                                name: "Blood Raven",
+                                name: "Ahrim the Blighted",
                                 type: "darkhunter",
                                 modif: ["hp_4", "t_f", "sum_hungrydead"],
                                 lvl: 1
                             }
                         }, {
                             id: "crypt",
-                            name: "Crypt",
+                            name: "Barrows Crypt",
                             m: ["skeleton", "hungrydead"],
                             special: {
-                                name: "Bone Breaker",
+                                name: "Dharok the Wretched",
                                 type: "skeleton",
                                 modif: ["hp_4", "dmg_4"],
                                 lvl: 1
                             }
                         }, {
                             id: "mausoleum",
-                            name: "Mausoleum",
+                            name: "Barrows Tunnels",
                             m: ["skeleton", "hungrydead"]
                         }, {
                             id: "stonyfield",
-                            name: "Stony Field",
+                            name: "Mole Lair",
                             m: ["fallen", "fallenshaman", "skeleton", "hungrydead", "darkhunter", "moonclan"],
                             special: {
                                 id: "rakanishu",
-                                name: "Rakanishu",
+                                name: "Giant Mole",
                                 type: "carver",
                                 modif: ["hp_4", "t_l", "dmg_2"],
                                 lvl: 2
                             }
                         }, {
                             id: "undergroundpassage",
-                            name: "Underground Passage",
+                            name: "Underground Pass",
                             m: ["fallenshaman", "skeletonarcher", "vilehunter", "moonclan", "misshapen"]
                         }, {
                             id: "darkwood",
-                            name: "Dark Wood",
+                            name: "Entrana Forest",
                             m: ["carver", "carvershaman", "skeletonarcher", "vilehunter", "spikefiend", "brute"],
                             special: {
-                                name: "Treehead Woodfist",
+                                name: "Tree Spirit",
                                 type: "brute",
                                 modif: ["hp_2", "dmg_2"],
                                 lvl: 1
                             }
                         }, {
                             id: "tristram",
-                            name: "Tristram",
+                            name: "Draynor Village",
                             m: ["carver", "carvershaman", "skeletonarcher", "nightclan", "returned"],
                             special: {
-                                name: "Griswold",
+                                name: "Count Draynor",
                                 type: "returned",
                                 modif: ["hp_8", "t_f", "dmg_2"],
                                 lvl: 2
                             }
                         }, {
                             id: "blackmarsh",
-                            name: "Black Marsh",
+                            name: "Draynor Manor",
                             m: ["carver", "carvershaman", "skeletonarcher", "nightclan", "returned", "brute"]
                         }, {
                             id: "forgottentower",
-                            name: "Forgotten Tower",
+                            name: "Crandor Dungeon",
                             m: ["bloodclan", "darkranger", "ghost", "devilkin"],
                             special: {
-                                name: "The Countess",
+                                name: "Elvarg",
                                 type: "darkranger",
                                 modif: ["hp_4", "t_f", "dmg_2"],
                                 lvl: 2
                             }
                         }, {
                             id: "hole",
-                            name: "The Hole",
+                            name: "Karamja Volcano",
                             m: ["misshapen", "vilearcher", "carver", "carvershaman", "brute"]
                         }, {
                             id: "tamoe",
-                            name: "Tamoe Highland",
+                            name: "Taverley",
                             m: ["returnedarcher", "returnedmage", "thornbeast", "darkstalker", "devilkin", "carver", "carvershaman"]
                         }, {
                             id: "pit",
-                            name: "The Pit",
+                            name: "Taverley Dungeon",
                             m: ["devilkin", "devilkinshaman", "darkstalker", "darkarcher", "bonewarrior"]
                         }, {
                             id: "monastery",
-                            name: "Monastery Gate",
+                            name: "Edgeville Monastery",
                             m: ["returnedarcher", "returnedmage", "darkstalker", "disfigured"]
                         }, {
                             id: "outercloister",
-                            name: "Outer Cloister",
+                            name: "Monastery Courtyard",
                             m: ["blackrogue", "yeti", "razorspine", "devilkin", "devilkinshaman"]
                         }, {
                             id: "barracks",
-                            name: "Barracks",
+                            name: "Black Knights' Fortress",
                             m: ["deathclan", "bonemage", "bonearcher", "blackrogue", "devilkin", "devilkinshaman"],
                             special: {
-                                name: "The Smith",
+                                name: "Black Knight Titan",
                                 type: "deathclan",
                                 modif: ["hp_4", "t_f", "dmg_1", "sp_2"],
                                 lvl: 2
                             }
                         }, {
                             id: "jail",
-                            name: "Jail",
+                            name: "Wilderness Lava Maze",
                             m: ["deathclan", "bonemage", "bonearcher", "wraith", "darkone", "tainted"],
                             special: {
-                                name: "Pitspawn Fouldog",
+                                name: "Chaos Elemental",
                                 type: "tainted",
                                 modif: ["hp_4", "t_c", "dmg_2"],
                                 lvl: 1
                             }
                         }, {
                             id: "innercloister",
-                            name: "Inner Cloister",
+                            name: "Monastery Cellar",
                             m: ["darkone", "blackarcher", "bonemage"]
                         }, {
                             id: "cathedral",
-                            name: "Cathedral",
+                            name: "Varrock Stone Circle",
                             m: ["wraith", "darkone", "darkshaman", "tainted"],
                             special: {
-                                name: "Bone Ash",
+                                name: "Delrith",
                                 type: "bonemage",
                                 modif: ["hp_4", "t_c", "dmg_2"],
                                 lvl: 1
                             }
                         }, {
                             id: "catacombs",
-                            name: "Catacombs",
+                            name: "King Black Dragon Lair",
                             m: ["tainted", "darkone", "darkshaman", "ghoul", "banished"],
                             special: {
                                 id: "andariel",
-                                name: "Andariel",
+                                name: "King Black Dragon",
                                 type: "darkarcher",
                                 modif: ["hp_8", "t_p", "dmg_2", "hitall"],
                                 lvl: 3
@@ -14663,126 +14663,126 @@ if (!self.__WB_pmw) {
                         }],
                         [{
                             id: "lutgolhein",
-                            name: "Lut Gholein",
+                            name: "Al Kharid",
                             m: [],
                             home: !0
                         }, {
                             id: "sewers",
-                            name: "Sewers",
+                            name: "Desert Mining Camp",
                             m: ["sandraider", "burningdead", "burningdeadarcher", "driedcorpse", "burningdeadmage", "huntress"],
                             special: {
-                                name: "Radament",
+                                name: "Scabaras Lord",
                                 type: "hollowone",
                                 modif: ["hp_8", "t_p", "sum_burningdead", "hitall"],
                                 lvl: 2
                             }
                         }, {
                             id: "rockywaste",
-                            name: "Rocky Waste",
+                            name: "Kharidian Desert",
                             m: ["carrionbird", "dungsoldier", "huntress", "slinger"]
                         }, {
                             id: "stonytomb",
-                            name: "Stony Tomb",
+                            name: "Sophanem Tomb",
                             m: ["burningdeadmage", "horror", "dungsoldier"],
                             special: {
-                                name: "Creeping Feature",
+                                name: "Skeletal Wyvern",
                                 type: "horror",
                                 modif: ["hp_4", "t_c", "dmg_4"],
                                 lvl: 1
                             }
                         }, {
                             id: "dryhills",
-                            name: "Dry Hills",
+                            name: "Bedabin Camp",
                             m: ["sabercat", "spearcat", "undeadscavenger"]
                         }, {
                             id: "hallsofthedead",
-                            name: "Halls of the Dead",
+                            name: "Pyramid Chambers",
                             m: ["horror", "hollowone", "decayed", "desertwing", "spearcat", "driedcorpse"],
                             special: {
-                                name: "Blood Witch the Wild",
+                                name: "Black Witch",
                                 type: "huntress",
                                 modif: ["hp_4", "sp_1.5", "t_c", "dmg_2"],
                                 lvl: 1
                             }
                         }, {
                             id: "faroasis",
-                            name: "Far Oasis",
+                            name: "Desert Oasis",
                             m: ["deathbeetle", "undeadscavenger", "sandmaggot"],
                             special: {
-                                name: "Bettleburst",
+                                name: "Giant Scarab",
                                 type: "deathbeetle",
                                 modif: ["hp_4", "dmg_2", "res_0.5"],
                                 lvl: 1
                             }
                         }, {
                             id: "maggotlair",
-                            name: "Maggot Lair",
+                            name: "Sand Worm Burrow",
                             m: ["sandmaggot", "rockworm", "scarab", "deathbeetle"],
                             special: {
-                                name: "Coldworm the Burrower",
+                                name: "Giant Sand Worm",
                                 type: "sandmaggot",
                                 modif: ["hp_8", "dmg_2", "t_c", "res_0.5", "sum_sandmaggot", "hitall"],
                                 lvl: 2
                             }
                         }, {
                             id: "lostcity",
-                            name: "Lost City",
+                            name: "Sunken Pyramid",
                             m: ["plaguebearer", "nightslinger", "nighttiger", "marauder"],
                             special: {
-                                name: "Dark Elder",
+                                name: "Pharaoh",
                                 type: "plaguebearer",
                                 modif: ["hp_4", "dmg_2", "sp_2", "res_0.5"],
                                 lvl: 1
                             }
                         }, {
                             id: "ancienttunnels",
-                            name: "Ancient Tunnels",
+                            name: "Smoke Dungeon",
                             m: ["plaguebearer", "embalmed", "horrormage", "invader"]
                         }, {
                             id: "clawvipertemple",
-                            name: "Claw Viper Temple",
+                            name: "Lizard Temple",
                             m: ["guardian", "clawviper", "salamander", "embalmed"],
                             special: {
-                                name: "Fangskin",
+                                name: "Lizardman Shaman",
                                 type: "salamander",
                                 modif: ["hp_4", "dmg_2", "sp_1.5", "t_l"],
                                 lvl: 2
                             }
                         }, {
                             id: "harem",
-                            name: "Harem",
+                            name: "Sophanem Bazaar",
                             m: ["blunderbore", "invader", "dunebeast", "horrorarcher", "horrormage"]
                         }, {
                             id: "palacecellar",
-                            name: "Palace Cellar",
+                            name: "Al Kharid Palace Cellar",
                             m: ["blunderbore", "invader", "dunebeast", "horrorarcher", "horrormage"],
                             special: {
-                                name: "Fire Eye",
+                                name: "Bandit Leader",
                                 type: "invader",
                                 modif: ["hp_4", "dmg_2", "sp_1.5", "t_f"],
                                 lvl: 1
                             }
                         }, {
                             id: "arcanesanctuary",
-                            name: "Arcane Sanctuary",
+                            name: "Mage Arena",
                             m: ["hellclan", "ghoullord", "specter"],
                             special: {
-                                name: "The Summoner",
+                                name: "Mage of Zamorak",
                                 type: "ghoullord",
                                 modif: ["hp_2", "dmg_4", "t_f", "res_0.5", "hitall"],
                                 lvl: 2
                             }
                         }, {
                             id: "canyonofthemagi",
-                            name: "Canyon of the Magi",
+                            name: "Desert Canyon",
                             m: ["hellcat", "hellslinger", "devourer", "steelscarab", "crusher"]
                         }, {
                             id: "talrashastomb",
-                            name: "Tal Rashas Tomb",
+                            name: "Kalphite Lair",
                             m: ["gorebelly", "steelscarab", "unraveler", "ghoullord", "apparition", "preserveddead"],
                             special: {
                                 id: "duriel",
-                                name: "Duriel",
+                                name: "Kalphite Queen",
                                 type: "gorebelly",
                                 modif: ["hp_12", "dmg_4", "stun_0.2_1", "t_f", "hitall"],
                                 lvl: 3
@@ -14790,155 +14790,155 @@ if (!self.__WB_pmw) {
                         }],
                         [{
                             id: "kurastdocks",
-                            name: "Kurast Docks",
+                            name: "Musa Point",
                             m: [],
                             home: !0
                         }, {
                             id: "spiderforest",
-                            name: "Spider Forest",
+                            name: "Karamja Jungle",
                             m: ["fetish", "fetishshaman", "cloudstalker", "thornedhulk", "junglehunter"],
                             special: {
                                 id: "flamespike",
-                                name: "Flamespike",
+                                name: "Jungle Demon",
                                 type: "fetish",
                                 modif: ["hp_16", "dmg_4", "t_f", "hitall"],
                                 lvl: 1
                             }
                         }, {
                             id: "arachnidlair",
-                            name: "Arachnid Lair",
+                            name: "Shilo Village",
                             m: ["flamespider", "poisonspinner", "fiend", "giantlamprey", "giantlampreyyoung"]
                         }, {
                             id: "spidercavern",
-                            name: "Spider Cavern",
+                            name: "Shilo Caves",
                             m: ["flamespider", "poisonspinner", "fiend", "giantlamprey", "giantlampreyyoung"],
                             special: {
                                 id: "sszarktheburning",
-                                name: "Sszark The Burning",
+                                name: "Fire Giant",
                                 type: "flamespider",
                                 modif: ["hp_8", "dmg_4", "stun_0.2_1"],
                                 lvl: 2
                             }
                         }, {
                             id: "greatmarsh",
-                            name: "Great Marsh",
+                            name: "Mort Myre Swamp",
                             m: ["fetish", "fetishshaman", "gloam", "drownedcarcass", "riverstalker", "bramblehulk"]
                         }, {
                             id: "flayerjungle",
-                            name: "Flayer Jungle",
+                            name: "Tai Bwo Wannai",
                             m: ["flayer", "flayershaman", "soulkiller", "soulkillershaman", "wingednightmare"],
                             special: {
                                 id: "stormtree",
-                                name: "Storm Tree",
+                                name: "Ent Warden",
                                 type: "thrasher",
                                 modif: ["hp_8", "dmg_2", "sp_2", "t_l"],
                                 lvl: 1
                             }
                         }, {
                             id: "swampypit",
-                            name: "Swampy Pit",
+                            name: "Brimhaven Dungeon",
                             m: ["gloam", "fiend", "waterwatcher", "undeadsoulkiller", "undeadstygiandoll", "preserveddead"]
                         }, {
                             id: "flayerdungeon",
-                            name: "Flayer Dungeon",
+                            name: "Karamja Dungeon",
                             m: ["flayer", "flayershaman", "soulkiller", "soulkillershaman", "undeadflayer", "darkshape", "gloombat", "waterwatcher"],
                             special: {
                                 id: "endugu",
-                                name: "Witch Doctor Endugu",
+                                name: "Tribal Witch Doctor",
                                 type: "flayershaman",
                                 modif: ["hp_8", "dmg_2", "res_0.5", "hitall"],
                                 lvl: 2
                             }
                         }, {
                             id: "lowerkurast",
-                            name: "Lower Kurast",
+                            name: "Port Phasmatys",
                             m: ["hellbuzzard", "zakarumite", "treelurker", "doomape"]
                         }, {
                             id: "kurastbazaar",
-                            name: "Kurast Bazaar",
+                            name: "Canifis",
                             m: ["thrasher", "faithful", "zakarumite", "sexton", "hellswarm"]
                         }, {
                             id: "disusedfane",
-                            name: "Disused Fane",
+                            name: "Haunted Mine",
                             m: ["fleshhunter", "wailingbeast", "spidermagus", "nightlord"]
                         }, {
                             id: "ruinedtemple",
-                            name: "Ruined Temple",
+                            name: "Meiyerditch",
                             m: ["fleshhunter", "spidermagus", "nightlord", "wailingbeast"],
                             special: {
                                 id: "sarina",
-                                name: "Battlemaid Sarina",
+                                name: "Vanescula Drakan",
                                 type: "fleshhunter",
                                 modif: ["hp_8", "dmg_2", "sp_2", "res_0.5"],
                                 lvl: 2
                             }
                         }, {
                             id: "sewers2",
-                            name: "Sewers",
+                            name: "Asgarnian Ice Dungeon",
                             m: ["preserveddead", "horror", "horadrimancient", "gloombat", "undeadsoulkiller", "stygianwatcher"],
                             special: {
                                 id: "icehawk",
-                                name: "Icehawk Riftwing",
+                                name: "Ice Queen",
                                 type: "gloombat",
                                 modif: ["hp_8", "dmg_2", "t_c"],
                                 lvl: 1
                             }
                         }, {
                             id: "upperkurast",
-                            name: "Upper Kurast",
+                            name: "Slayer Tower",
                             m: ["zealot", "faithful", "cantor", "wingednightmare", "thrasher"]
                         }, {
                             id: "forgottentemple",
-                            name: "Forgotten Temple",
+                            name: "Abandoned Mine",
                             m: ["serpentmagus", "bonescarab", "blooddiver", "flesharcher"]
                         }, {
                             id: "forgottenreliquary",
-                            name: "Forgotten Reliquary",
+                            name: "Tarn's Lair",
                             m: ["wailingbeast", "fleshhunter", "spidermagus", "nightlord"]
                         }, {
                             id: "kurastcauseway",
-                            name: "Kurast Causeway",
+                            name: "Wilderness Ditch",
                             m: ["zealot", "heirophant", "templeguard", "infidel"]
                         }, {
                             id: "disusedreliquary",
-                            name: "Disused Reliquary",
+                            name: "Armadyl's Eyrie",
                             m: ["flesharcher", "serpentmagus", "bonescarab", "blooddiver"],
                             special: {
                                 id: "ismail",
-                                name: "Ismail Vilehand",
+                                name: "Kree'arra",
                                 type: "councilmember",
                                 modif: ["hp_2", "dmg_2", "sp_1.5"],
                                 lvl: 2
                             }
                         }, {
                             id: "ruinedfane",
-                            name: "Ruined Fane",
+                            name: "Saradomin's Encampment",
                             m: ["flesharcher", "serpentmagus", "bonescarab", "blooddiver"],
                             special: {
                                 id: "geleb",
-                                name: "Geleb Flamefinger",
+                                name: "Commander Zilyana",
                                 type: "councilmember",
                                 modif: ["hp_2", "dmg_2", "t_f", "hitall"],
                                 lvl: 2
                             }
                         }, {
                             id: "travincal",
-                            name: "Travincal",
+                            name: "Bandos' Stronghold",
                             m: ["nightlord", "heirophant", "zealot", "councilmember", "waterwatcher"],
                             special: {
                                 id: "toorc",
-                                name: "Toorc Icefirst",
+                                name: "General Graardor",
                                 type: "councilmember",
                                 modif: ["hp_4", "dmg_2", "t_c", "res_0.5"],
                                 lvl: 2
                             }
                         }, {
                             id: "duranceofhate",
-                            name: "Durance of Hate",
+                            name: "Ancient Prison",
                             m: ["undeadstygiandoll", "cadaver", "darklord", "mauler", "bloodlord", "councilmember"],
                             special: {
                                 id: "mephisto",
-                                name: "Mephisto",
+                                name: "Nex",
                                 type: "councilmember",
                                 modif: ["hp_8", "dmg_2", "t_c", "res_0.5", "hitall"],
                                 lvl: 3
@@ -14966,12 +14966,12 @@ if (!self.__WB_pmw) {
                             name: "Combat",
                             skills: [{
                                 id: "discipline",
-                                name: "Discipline",
+                                name: "Burst of Strength",
                                 lvl: 1,
                                 desc: t => "[passive] Increase damages.<hr/>Current level:<br/>Bonus: " + Math.floor(100 * t.disciplineBonus()) + "%.<hr/>Next level:<br/>Bonus: " + Math.floor(100 * t.disciplineBonus(1)) + "%."
                             }, {
                                 id: "parry",
-                                name: "Parry",
+                                name: "Protect from Melee",
                                 lvl: 6,
                                 desc: t => "Increase block rate.<br/>Current level:<br/>Bonus: " + Math.floor(100 * t.parryBonus()) + "%.<br/>Duration: " + t.parryDuration() + "s.<hr/>Next level:<br/>Bonus: " + Math.floor(100 * t.parryBonus(1)) + "%.<br/>Duration: " + t.parryDuration(1) + "s.",
                                 cost: () => 5,
@@ -14983,7 +14983,7 @@ if (!self.__WB_pmw) {
                             name: "Magic",
                             skills: [{
                                 id: "heal",
-                                name: "Restore life",
+                                name: "Rapid Heal",
                                 lvl: 1,
                                 desc: t => "Heal.<br/>Current level:<br/>Heal: " + t.healBonus() + "<hr/>Next level:<br/>Heal: " + t.healBonus(1) + ".",
                                 cost: () => 5,
@@ -14993,7 +14993,7 @@ if (!self.__WB_pmw) {
                                 }
                             }, {
                                 id: "magicmissile",
-                                name: "Magic Missile",
+                                name: "Wind Strike",
                                 lvl: 6,
                                 desc: t => "Launch a magic missile, dealing magical damage to 1 monster.<br/>Current level:<br/>Damage inflicted: " + t.magicMissileDmg() + "<hr/>Next level:<br/>Damage inflicted: " + t.magicMissileDmg(1) + ".",
                                 cost: () => 2,
@@ -15003,9 +15003,9 @@ if (!self.__WB_pmw) {
                                 }
                             }, {
                                 id: "shock",
-                                name: "Shock",
+                                name: "Stun",
                                 lvl: 6,
-                                desc: t => "Create a wave of electrical energy that deals damage and has 25% chances to stun all monsters around.<br/>Current level:<br/>Damage inflicted: " + t.shockDmg() + "<br/>Stun duration: " + Math.floor(10 * t.shockStunDuration()) / 10 + "s.<hr/>Next level:<br/>Damage inflicted: " + t.shockDmg(1) + "<br/>Stun duration: " + Math.floor(10 * t.shockStunDuration(1)) / 10 + "s.<hr/>",
+                                desc: t => "Unleash a wave of energy that deals damage and has 25% chances to stun all monsters around.<br/>Current level:<br/>Damage inflicted: " + t.shockDmg() + "<br/>Stun duration: " + Math.floor(10 * t.shockStunDuration()) / 10 + "s.<hr/>Next level:<br/>Damage inflicted: " + t.shockDmg(1) + "<br/>Stun duration: " + Math.floor(10 * t.shockStunDuration(1)) / 10 + "s.<hr/>",
                                 cost: () => 8,
                                 cooldown: 2,
                                 effect: t => {
@@ -15014,10 +15014,10 @@ if (!self.__WB_pmw) {
                                 }
                             }, {
                                 id: "summoncrow",
-                                name: "Summon Crow",
+                                name: "Summon Ibis",
                                 lvl: 12,
                                 campAllowed: !0,
-                                desc: t => "Summon a crow to fight for you.<br/>Current level:<br/>Damage: " + t.crowMinDmg() + "-" + t.crowMaxDmg() + "<br/>Attack rating: " + t.crowAtkRating() + "<br/>Speed: " + t.crowSpeed() + " (" + t.strSpeed(t.crowSpeed()) + ")<br/>Defense: " + t.crowDef() + "<br/>Life: " + t.crowMaxLife() + "<hr/>Next level:<br/>Damage: " + t.crowMinDmg(1) + "-" + t.crowMaxDmg(1) + "<br/>Attack rating: " + t.crowAtkRating(1) + "<br/>Speed: " + t.crowSpeed(1) + " (" + t.strSpeed(t.crowSpeed(1)) + ")<br/>Defense: " + t.crowDef(1) + "<br/>Life: " + t.crowMaxLife(1) + ".",
+                                desc: t => "Summon an ibis to fight for you.<br/>Current level:<br/>Damage: " + t.crowMinDmg() + "-" + t.crowMaxDmg() + "<br/>Attack rating: " + t.crowAtkRating() + "<br/>Speed: " + t.crowSpeed() + " (" + t.strSpeed(t.crowSpeed()) + ")<br/>Defense: " + t.crowDef() + "<br/>Life: " + t.crowMaxLife() + "<hr/>Next level:<br/>Damage: " + t.crowMinDmg(1) + "-" + t.crowMaxDmg(1) + "<br/>Attack rating: " + t.crowAtkRating(1) + "<br/>Speed: " + t.crowSpeed(1) + " (" + t.strSpeed(t.crowSpeed(1)) + ")<br/>Defense: " + t.crowDef(1) + "<br/>Life: " + t.crowMaxLife(1) + ".",
                                 cost: t => 10,
                                 cooldown: 2,
                                 effect: t => {
@@ -15027,7 +15027,7 @@ if (!self.__WB_pmw) {
                         }]
                     }, {
                         id: 1,
-                        name: "Barbarian",
+                        name: "Warrior",
                         desc: "Specialize in combat.<br/>Gain +15 to vitality.",
                         reqlvl: 6,
                         reqclass: 0,
@@ -15041,30 +15041,30 @@ if (!self.__WB_pmw) {
                         }],
                         skillsCat: [{
                             id: "masteries",
-                            name: "Masteries",
+                            name: "Training",
                             skills: [{
                                 id: "amas",
-                                name: "Axe mastery",
+                                name: "Axe Training",
                                 lvl: 1,
                                 desc: t => "[passive] Increase damages and attack rating when using Axes.<hr/>Current level:<br/>Bonus: " + Math.floor(100 * t.amasBonus()) + "%.<hr/>Next level:<br/>Bonus: " + Math.floor(100 * t.amasBonus(1)) + "%."
                             }, {
                                 id: "smas",
-                                name: "Sword mastery",
+                                name: "Sword Training",
                                 lvl: 1,
                                 desc: t => "[passive] Increase damages and attack rating when using Swords.<hr/>Current level:<br/>Bonus: " + Math.floor(100 * t.smasBonus()) + "%.<hr/>Next level:<br/>Bonus: " + Math.floor(100 * t.smasBonus(1)) + "%."
                             }, {
                                 id: "mmas",
-                                name: "Mace mastery",
+                                name: "Mace Training",
                                 lvl: 1,
                                 desc: t => "[passive] Increase damages and attack rating when using Maces.<hr/>Current level:<br/>Bonus: " + Math.floor(100 * t.mmasBonus()) + "%.<hr/>Next level:<br/>Bonus: " + Math.floor(100 * t.mmasBonus(1)) + "%."
                             }, {
                                 id: "ironskin",
-                                name: "Iron Skin",
+                                name: "Defence Training",
                                 lvl: 6,
                                 desc: t => "[passive] Increase defense.<hr/>Current level:<br/>Bonus: " + Math.floor(100 * t.ironSkinBonus()) + "%.<hr/>Next level:<br/>Bonus: " + Math.floor(100 * t.ironSkinBonus(1)) + "%."
                             }, {
                                 id: "resistance",
-                                name: "Natural Resistance",
+                                name: "Dragonfire Ward",
                                 lvl: 12,
                                 desc: t => "[passive] Increase resistances to all elements.<hr/>Current level:<br/>Bonus: " + t.resistanceBonus() + "%.<hr/>Next level:<br/>Bonus: " + t.resistanceBonus(1) + "%."
                             }]
@@ -15073,7 +15073,7 @@ if (!self.__WB_pmw) {
                             name: "Combat",
                             skills: [{
                                 id: "bash",
-                                name: "Bash",
+                                name: "Pummel",
                                 lvl: 6,
                                 desc: t => "Increase damages and 25% chances to stun monster for a short period.<br/>Current level:<br/>Bonus: " + Math.floor(100 * t.bashBonus()) + "%.<br/>Stun duration: " + Math.floor(10 * t.bashStunDuration()) / 10 + "s.<hr/>Next level:<br/>Bonus: " + Math.floor(100 * t.bashBonus(1)) + "%.<br/>Stun duration: " + Math.floor(10 * t.bashStunDuration(1)) / 10 + "s.",
                                 cost: () => 2,
@@ -15084,7 +15084,7 @@ if (!self.__WB_pmw) {
                                 cooldown: 1
                             }, {
                                 id: "concentrate",
-                                name: "Concentrate",
+                                name: "Aggressive Stance",
                                 lvl: 12,
                                 desc: t => "Increase damages and attack rating.<br/>Current level:<br/>Bonus: " + Math.floor(100 * t.concentrateBonus()) + "%.<br/>Duration: " + t.concentrateDuration() + "s.<hr/>Next level:<br/>Bonus: " + Math.floor(100 * t.concentrateBonus(1)) + "%.<br/>Duration: " + t.concentrateDuration(1) + "s.",
                                 cost: () => 5,
@@ -15092,7 +15092,7 @@ if (!self.__WB_pmw) {
                                 cooldown: 1
                             }, {
                                 id: "frenzy",
-                                name: "Frenzy",
+                                name: "Berserk",
                                 lvl: 18,
                                 desc: t => "Increase damages, attack rating and attack speed.<br/>Current level:<br/>Bonus: " + Math.floor(100 * t.frenzyBonus()) + "%.<br/>Duration: " + t.frenzyDuration() + "s.<hr/>Next level:<br/>Bonus: " + Math.floor(100 * t.frenzyBonus(1)) + "%.<br/>Duration: " + t.frenzyDuration(1) + "s.",
                                 cost: () => 5,
@@ -15102,7 +15102,7 @@ if (!self.__WB_pmw) {
                         }]
                     }, {
                         id: 2,
-                        name: "Sorceress",
+                        name: "Mage",
                         desc: "Specialize in Magic.<br/>Gain +15 to energy.<br/>Can auto-cast 1 spell.",
                         reqlvl: 12,
                         reqclass: 0,
@@ -15114,7 +15114,7 @@ if (!self.__WB_pmw) {
                         }, {
                             desc: t => {
                                 var n;
-                                return "Magic missile cast: 50 (" + ((null === (n = t.getData().stats.run) || void 0 === n ? void 0 : n.skills.magicmissile) || 0) + ")"
+                                return "Wind Strike cast: 50 (" + ((null === (n = t.getData().stats.run) || void 0 === n ? void 0 : n.skills.magicmissile) || 0) + ")"
                             },
                             check: t => {
                                 var n;
@@ -15126,14 +15126,14 @@ if (!self.__WB_pmw) {
                             name: "Fire",
                             skills: [{
                                 id: "heat",
-                                name: "Heat",
+                                name: "Fire Altar",
                                 lvl: 1,
                                 desc: t => "[passive] Increase mana regeneration.<br/>Current level:<br/>Bonus: " + Math.floor(100 * t.heatBonus()) + "%<hr/>Next level:<br/>Bonus: " + Math.floor(100 * t.heatBonus(1)) + "%."
                             }, {
                                 id: "fireball",
-                                name: "Fireball",
+                                name: "Fire Wave",
                                 lvl: 12,
-                                desc: t => "Launch a fire ball, dealing fire damage to all monsters around.<br/>Current level:<br/>Damage inflicted: " + t.fireballDmg() + "<hr/>Next level:<br/>Damage inflicted: " + t.fireballDmg(1) + ".",
+                                desc: t => "Launch a wave of fire, dealing fire damage to all monsters around.<br/>Current level:<br/>Damage inflicted: " + t.fireballDmg() + "<hr/>Next level:<br/>Damage inflicted: " + t.fireballDmg(1) + ".",
                                 cost: t => t.fireballCost(),
                                 cooldown: 2,
                                 effect: t => {
@@ -15141,7 +15141,7 @@ if (!self.__WB_pmw) {
                                 }
                             }, {
                                 id: "firemastery",
-                                name: "Fire Mastery",
+                                name: "Fire Affinity",
                                 lvl: 18,
                                 campAllowed: !0,
                                 desc: t => "Increase efficiency of active fire spells for every cast (permanent).<br/>Current level:<br/>Bonus: +" + Math.floor(100 * t.fireMasteryBonus()) / 100 + "%<br/>Total Bonus: +" + Math.floor(100 * t.fireMasteryTotalBonus()) / 100 + "% (" + (t.getData().stats.total.skills.firemastery || 0) + ")<hr/>Next level:<br/>Bonus: +" + Math.floor(100 * t.fireMasteryBonus(1)) / 100 + "%.",
@@ -15149,7 +15149,7 @@ if (!self.__WB_pmw) {
                                 cooldown: 2
                             }, {
                                 id: "meteor",
-                                name: "Meteor",
+                                name: "Fire Surge",
                                 lvl: 24,
                                 desc: t => "Launch meteors at your enemies, dealing fire damage to all monsters around during a period.<br/>Current level:<br/>Damage inflicted: " + t.meteorDmg() + " + " + t.meteorLengthDmg() + "/s during 5s<hr/>Next level:<br/>Damage inflicted: " + t.meteorDmg(1) + " + " + t.meteorLengthDmg(1) + "/s during 5s.",
                                 cost: t => t.meteorCost(),
@@ -15164,7 +15164,7 @@ if (!self.__WB_pmw) {
                             name: "Cold",
                             skills: [{
                                 id: "frozenarmor",
-                                name: "Frozen Armor",
+                                name: "Ice Ward",
                                 lvl: 1,
                                 campAllowed: !0,
                                 desc: t => "Create an armor that absorbs damage.<br/>Current level:<br/>Absorbs: " + t.frozenArmorDmg() + "<hr/>Next level:<br/>Absorbs: " + t.frozenArmorDmg(1) + ".",
@@ -15176,12 +15176,12 @@ if (!self.__WB_pmw) {
                                 }
                             }, {
                                 id: "manafreeze",
-                                name: "Mana freeze",
+                                name: "Spell Efficiency",
                                 lvl: 6,
                                 desc: t => "[passive] Reduce mana cost of all spells.<br/>Current level:<br/>Spell cost: -" + Math.floor(100 * t.manafreezeBonus()) + "%<hr/>Next level:<br/>Spell cost: -" + Math.floor(100 * t.manafreezeBonus(1)) + "%."
                             }, {
                                 id: "coldmastery",
-                                name: "Cold Mastery",
+                                name: "Ice Affinity",
                                 lvl: 18,
                                 campAllowed: !0,
                                 desc: t => "Increase efficiency of active cold spells for every cast (permanent).<br/>Current level:<br/>Bonus: +" + Math.floor(100 * t.coldMasteryBonus()) / 100 + "%<br/>Total Bonus: +" + Math.floor(100 * t.coldMasteryTotalBonus()) / 100 + "% (" + (t.getData().stats.total.skills.coldmastery || 0) + ")<hr/>Next level:<br/>Bonus: +" + Math.floor(100 * t.coldMasteryBonus(1)) / 100 + "%.",
@@ -15189,7 +15189,7 @@ if (!self.__WB_pmw) {
                                 cooldown: 2
                             }, {
                                 id: "frozenorb",
-                                name: "Frozen Orb",
+                                name: "Ice Barrage",
                                 lvl: 24,
                                 desc: t => "A pulsating orb that deals cold damage to all monsters around.<br/>Current level:<br/>Damage inflicted: " + t.frozenOrbDmg() + "<hr/>Next level:<br/>Damage inflicted: " + t.frozenOrbDmg(1) + ".",
                                 cost: t => t.frozenOrbCost(),
@@ -15201,16 +15201,16 @@ if (!self.__WB_pmw) {
                         }]
                     }, {
                         id: 3,
-                        name: "Druid",
+                        name: "Summoner",
                         desc: "Specialize in Summons & transformation.<br/>Poison & Cold resist +15.",
                         reqlvl: 18,
                         reqclass: 0,
                         onSelect: t => {},
                         req: [{
-                            desc: t => "Summon crow level: 20 (" + t.skillLevel("summoncrow") + ")",
+                            desc: t => "Summon Ibis level: 20 (" + t.skillLevel("summoncrow") + ")",
                             check: t => t.skillLevel("summoncrow") >= 20
                         }, {
-                            desc: t => "Kill Rakanishu:  20 (" + (t.getData().stats.total.bosses.rakanishu || 0) + ")",
+                            desc: t => "Kill Giant Mole:  20 (" + (t.getData().stats.total.bosses.rakanishu || 0) + ")",
                             check: t => (t.getData().stats.total.bosses.rakanishu || 0) >= 20
                         }],
                         skillsCat: [{
@@ -15218,7 +15218,7 @@ if (!self.__WB_pmw) {
                             name: "Summons",
                             skills: [{
                                 id: "summonwolf",
-                                name: "Summon Wolf",
+                                name: "Spirit Wolf",
                                 lvl: 12,
                                 campAllowed: !0,
                                 desc: t => "Summon a wolf to fight for you.<br/>Current level:<br/>Damage: " + t.wolfMinDmg() + "-" + t.wolfMaxDmg() + "<br/>Attack rating: " + t.wolfAtkRating() + "<br/>Speed: " + t.wolfSpeed() + " (" + t.strSpeed(t.wolfSpeed()) + ")<br/>Defense: " + t.wolfDef() + "<br/>Life: " + t.wolfMaxLife() + "<hr/>Next level:<br/>Damage: " + t.wolfMinDmg(1) + "-" + t.wolfMaxDmg(1) + "<br/>Attack rating: " + t.wolfAtkRating(1) + "<br/>Speed: " + t.wolfSpeed(1) + " (" + t.strSpeed(t.wolfSpeed(1)) + ")<br/>Defense: " + t.wolfDef(1) + "<br/>Life: " + t.wolfMaxLife(1) + ".",
@@ -15229,7 +15229,7 @@ if (!self.__WB_pmw) {
                                 }
                             }, {
                                 id: "summonpixie",
-                                name: "Summon Pixie",
+                                name: "Summon Fairy",
                                 lvl: 18,
                                 campAllowed: !0,
                                 desc: t => {
@@ -15243,15 +15243,15 @@ if (!self.__WB_pmw) {
                                 }
                             }, {
                                 id: "summonresist",
-                                name: "Summon Resist",
+                                name: "Familiar Ward",
                                 lvl: 18,
                                 desc: t => "[passive] Increase summons resistances to all elements.<hr/>Current level:<br/>Bonus: " + t.summonResistBonus() + "%.<hr/>Next level:<br/>Bonus: " + t.summonResistBonus(1) + "%."
                             }, {
                                 id: "carrionvine",
-                                name: "Carrion Vine",
+                                name: "Evil Turnip",
                                 lvl: 24,
                                 campAllowed: !0,
-                                desc: t => "Summon a eat corpses to heal you and your party.<br/>Current level:<br/>Life gainded after kill: 1-" + t.vineLifeGained() + "<br/>Defense: " + t.vineDef() + "<br/>Life: " + t.vineMaxLife() + "<hr/>Next level:<br/>Life gainded after kill: 1-" + t.vineLifeGained(1) + "<br/>Defense: " + t.vineDef(1) + "<br/>Life: " + t.vineMaxLife(1) + ".",
+                                desc: t => "Summon an evil turnip that feeds on fallen foes to heal you and your party.<br/>Current level:<br/>Life gainded after kill: 1-" + t.vineLifeGained() + "<br/>Defense: " + t.vineDef() + "<br/>Life: " + t.vineMaxLife() + "<hr/>Next level:<br/>Life gainded after kill: 1-" + t.vineLifeGained(1) + "<br/>Defense: " + t.vineDef(1) + "<br/>Life: " + t.vineMaxLife(1) + ".",
                                 cost: t => 25,
                                 cooldown: 2,
                                 effect: t => {
@@ -15259,13 +15259,13 @@ if (!self.__WB_pmw) {
                                 }
                             }, {
                                 id: "summonmastery",
-                                name: "Summon Mastery",
+                                name: "Summoning Mastery",
                                 lvl: 30,
                                 desc: t => "[passive] Increase summons life and defense.<hr/>Current level:<br/>Life: +" + Math.floor(100 * t.summonMasteryLifeBonus()) + "%.<br/>Defense: +" + Math.floor(100 * t.summonMasteryDefenseBonus()) + "%.<hr/>Next level:<br/>Life: +" + Math.floor(100 * t.summonMasteryLifeBonus(1)) + "%.<br/>Defense: +" + Math.floor(100 * t.summonMasteryDefenseBonus(1)) + "%."
                             }]
                         }, {
                             id: "shapeshifting",
-                            name: "Shape Shifting",
+                            name: "Transformation",
                             skills: [{
                                 id: "werewolf",
                                 name: "Werewolf",
@@ -15281,12 +15281,12 @@ if (!self.__WB_pmw) {
                                 id: "lycanthropy",
                                 name: "Lycanthropy",
                                 lvl: 18,
-                                desc: t => "[passive] Increases the Life of the Druid while Shapeshifted, as well as the duration of the transformation.<hr/>Current level:<br/>Duration: " + t.lycanthropyDurationBonus() + "s<br/>Life +" + Math.floor(100 * t.lycanthropyLifeBonus()) + "%<hr/>Next level:<br/>Duration: " + t.lycanthropyDurationBonus(1) + "s<br/>Life +" + Math.floor(100 * t.lycanthropyLifeBonus(1)) + "%."
+                                desc: t => "[passive] Increases the Life of the Summoner while transformed, as well as the duration of the transformation.<hr/>Current level:<br/>Duration: " + t.lycanthropyDurationBonus() + "s<br/>Life +" + Math.floor(100 * t.lycanthropyLifeBonus()) + "%<hr/>Next level:<br/>Duration: " + t.lycanthropyDurationBonus(1) + "s<br/>Life +" + Math.floor(100 * t.lycanthropyLifeBonus(1)) + "%."
                             }, {
                                 id: "werebear",
-                                name: "Werebear",
+                                name: "Troll Form",
                                 lvl: 30,
-                                desc: t => "Transform into a bear.<hr/>Duration: " + t.lycanthropyDurationBonus() + "s<br/>Life +" + Math.floor(100 * t.lycanthropyLifeBonus()) + "%<hr/>Current level:<br/>Damage: +" + Math.floor(100 * t.werebearDmgBonus()) + "%.<br/>Defense: +" + Math.floor(100 * t.werebearDefenseBonus()) + "%.<hr/>Next level:<br/>Damage: +" + Math.floor(100 * t.werebearDmgBonus(1)) + "%.<br/>Defense: +" + Math.floor(100 * t.werebearDefenseBonus(1)) + "%.",
+                                desc: t => "Transform into a troll.<hr/>Duration: " + t.lycanthropyDurationBonus() + "s<br/>Life +" + Math.floor(100 * t.lycanthropyLifeBonus()) + "%<hr/>Current level:<br/>Damage: +" + Math.floor(100 * t.werebearDmgBonus()) + "%.<br/>Defense: +" + Math.floor(100 * t.werebearDefenseBonus()) + "%.<hr/>Next level:<br/>Damage: +" + Math.floor(100 * t.werebearDmgBonus(1)) + "%.<br/>Defense: +" + Math.floor(100 * t.werebearDefenseBonus(1)) + "%.",
                                 cooldown: 2,
                                 campAllowed: !0,
                                 cost: () => 35,
@@ -15298,7 +15298,7 @@ if (!self.__WB_pmw) {
                     }],
                     $4 = [{
                         id: "crow",
-                        name: "Crow",
+                        name: "Ibis",
                         maxlife: t => t.crowMaxLife(),
                         def: t => t.crowDef(),
                         speed: t => t.crowSpeed(),
@@ -15308,12 +15308,12 @@ if (!self.__WB_pmw) {
                                 e = t.crowAtkRating();
                             if (he.roll(t.chances(n, e))) {
                                 let i = he.get(t.crowMinDmg(), t.crowMaxDmg());
-                                t.hitMc(n, i, "ph", !0, "Crow")
-                            } else t.log("Crow: Miss", "h")
+                                t.hitMc(n, i, "ph", !0, "Ibis")
+                            } else t.log("Ibis: Miss", "h")
                         }
                     }, {
                         id: "wolf",
-                        name: "Wolf",
+                        name: "Spirit Wolf",
                         maxlife: t => t.wolfMaxLife(),
                         def: t => t.wolfDef(),
                         speed: t => t.wolfSpeed(),
@@ -15323,25 +15323,25 @@ if (!self.__WB_pmw) {
                                 e = t.wolfAtkRating();
                             if (he.roll(t.chances(n, e))) {
                                 let i = he.get(t.wolfMinDmg(), t.wolfMaxDmg());
-                                t.hitMc(n, i, "ph", !0, "Wolf")
-                            } else t.log("Wolf: Miss", "h")
+                                t.hitMc(n, i, "ph", !0, "Spirit Wolf")
+                            } else t.log("Spirit Wolf: Miss", "h")
                         }
                     }, {
                         id: "pixie",
-                        name: "Pixie",
+                        name: "Fairy",
                         maxlife: t => t.pixieMaxLife(),
                         def: t => t.pixieDef(),
                         act: t => {}
                     }, {
                         id: "carrionvine",
-                        name: "Carrion Vine",
+                        name: "Evil Turnip",
                         maxlife: t => t.vineMaxLife(),
                         def: t => t.vineDef(),
                         act: t => {}
                     }],
                     q4 = [{
-                        title: "Den of Evil",
-                        description: "Clear the Den of Evil<br/>Reward: 1 Skill point",
+                        title: "The Restless Ghost",
+                        description: "Clear the Lumbridge Swamp Caves<br/>Reward: 1 Skill point",
                         reward: t => {
                             t.getData().srem++, t.getData().skillreset++
                         },
@@ -15350,40 +15350,40 @@ if (!self.__WB_pmw) {
                             return (null === (n = t.level("denofevil")) || void 0 === n ? void 0 : n.done) || !1
                         }
                     }, {
-                        title: "Sisters' Burial Grounds",
-                        description: "Kill Blood Raven in the Burial's Grounds<br/>Reward: 1 Hireling slot",
+                        title: "Barrows Brothers",
+                        description: "Kill Ahrim the Blighted on Barrows Hill<br/>Reward: 1 Hireling slot",
                         reward: t => t.getData().maxmercs++,
                         check: t => {
                             var n;
                             return (null === (n = t.level("burialgrounds")) || void 0 === n ? void 0 : n.done) || !1
                         }
                     }, {
-                        title: "Search for Cain",
-                        description: "Clear Tristram<br/>Reward: 5 attribute points",
+                        title: "Vampyre Slayer",
+                        description: "Clear Draynor Village<br/>Reward: 5 attribute points",
                         reward: t => t.getData().rem += 5,
                         check: t => {
                             var n;
                             return (null === (n = t.level("tristram")) || void 0 === n ? void 0 : n.done) || !1
                         }
                     }, {
-                        title: "The Forgotten Tower",
-                        description: "Kill the Countess<br/>Reward: xp bonus",
+                        title: "Dragon Slayer",
+                        description: "Kill Elvarg<br/>Reward: xp bonus",
                         reward: t => t.getData().xp += Math.max(5e4, t.xpReq() / 2),
                         check: t => {
                             var n;
                             return (null === (n = t.level("forgottentower")) || void 0 === n ? void 0 : n.done) || !1
                         }
                     }, {
-                        title: "Tools of the Trade",
-                        description: "Clear the Barracks<br/>Reward: Ability to imbue an item",
+                        title: "Black Knights' Fortress",
+                        description: "Clear the Black Knights' Fortress<br/>Reward: Ability to imbue an item",
                         reward: t => t.getData().imbue++,
                         check: t => {
                             var n;
                             return (null === (n = t.level("barracks")) || void 0 === n ? void 0 : n.done) || !1
                         }
                     }, {
-                        title: "Sisters to the Slaughter",
-                        description: "Kill Andariel<br/>Reward: 1 attribute potion. Opens Act II",
+                        title: "King of the Dragons",
+                        description: "Kill King Black Dragon<br/>Reward: 1 attribute potion. Opens Act II",
                         reward: t => {
                             t.dropPotion(1e3, 1, he.fromArray(["strength", "dexterity", "vitality", "energy"])), t.openAct(2)
                         },
@@ -15392,48 +15392,48 @@ if (!self.__WB_pmw) {
                             return (null === (n = t.level("catacombs")) || void 0 === n ? void 0 : n.done) || !1
                         }
                     }, {
-                        title: "Radament's Lair",
-                        description: "Kill Radament<br/>Reward: 1 Skill point",
+                        title: "Contact!",
+                        description: "Kill Scabaras Lord<br/>Reward: 1 Skill point",
                         reward: t => t.getData().srem++,
                         check: t => {
                             var n;
                             return (null === (n = t.level("sewers")) || void 0 === n ? void 0 : n.done) || !1
                         }
                     }, {
-                        title: "Halls of the Dead",
-                        description: "Clear the Halls of the Dead<br/>Reward: 1 Epic item",
+                        title: "Desert Treasure",
+                        description: "Clear the Pyramid Chambers<br/>Reward: 1 Epic item",
                         reward: t => t.dropItem(t.getData().lvl, -1, 100, 100, 100, 100, .02),
                         check: t => {
                             var n;
                             return (null === (n = t.level("hallsofthedead")) || void 0 === n ? void 0 : n.done) || !1
                         }
                     }, {
-                        title: "The Horadric Staff",
-                        description: "Clear the Maggot Lair<br/>Reward: 1 Hireling slot",
+                        title: "Enakhra's Lament",
+                        description: "Clear the Sand Worm Burrow<br/>Reward: 1 Hireling slot",
                         reward: t => t.getData().maxmercs++,
                         check: t => {
                             var n;
                             return (null === (n = t.level("maggotlair")) || void 0 === n ? void 0 : n.done) || !1
                         }
                     }, {
-                        title: "The Tainted Sun",
-                        description: 'Destroy the Claw Viper Altar to end the curse<br/>Reward: <span class="text-unique">Horadric Amulet</span>',
+                        title: "The Golem",
+                        description: 'Destroy the Lizard Temple altar to end the curse<br/>Reward: <span class="text-unique">Amulet of Glory</span>',
                         reward: t => t.dropUnique("horadricamulet"),
                         check: t => {
                             var n;
                             return (null === (n = t.level("clawvipertemple")) || void 0 === n ? void 0 : n.done) || !1
                         }
                     }, {
-                        title: "The Arcane Sanctuary",
-                        description: "Kill The Summoner<br/>Reward: +1 skill slot",
+                        title: "Mage Arena",
+                        description: "Kill the Mage of Zamorak<br/>Reward: +1 skill slot",
                         reward: t => t.getData().quickslots.skills.push(""),
                         check: t => {
                             var n;
                             return (null === (n = t.level("arcanesanctuary")) || void 0 === n ? void 0 : n.done) || !1
                         }
                     }, {
-                        title: "The Seven Tombs",
-                        description: 'Kill Duriel<br/>Reward: <span class="text-unique">Duriel\'s ring</span>. Opens Act III',
+                        title: "Kalphite Hive",
+                        description: 'Kill the Kalphite Queen<br/>Reward: <span class="text-unique">Ring of Suffering</span>. Opens Act III',
                         reward: t => {
                             t.dropUnique("durielsring"), t.openAct(3)
                         },
@@ -15442,48 +15442,48 @@ if (!self.__WB_pmw) {
                             return (null === (n = t.level("talrashastomb")) || void 0 === n ? void 0 : n.done) || !1
                         }
                     }, {
-                        title: "The Golden Bird",
-                        description: "Clear the Spider Forest<br/>Reward: 1 Hireling slot",
+                        title: "Tai Bwo Wannai Trio",
+                        description: "Clear the Karamja Jungle<br/>Reward: 1 Hireling slot",
                         reward: t => t.getData().maxmercs++,
                         check: t => {
                             var n;
                             return (null === (n = t.level("spiderforest")) || void 0 === n ? void 0 : n.done) || !1
                         }
                     }, {
-                        title: "Blade of the Old Religion",
-                        description: "Clear the Flayer Jungle<br/>Reward: 1 legendary item",
+                        title: "Legends' Quest",
+                        description: "Clear Tai Bwo Wannai<br/>Reward: 1 legendary item",
                         reward: t => t.dropItem(t.getData().lvl, -1, 100, 100, 100, 100, 100),
                         check: t => {
                             var n;
                             return (null === (n = t.level("flayerjungle")) || void 0 === n ? void 0 : n.done) || !1
                         }
                     }, {
-                        title: "Lam Esen's Tome",
-                        description: "Clear the Ruined Temple<br/>Reward: +1 max auto-cast",
+                        title: "In Aid of the Myreque",
+                        description: "Clear Meiyerditch<br/>Reward: +1 max auto-cast",
                         reward: t => {},
                         check: t => {
                             var n;
                             return (null === (n = t.level("ruinedtemple")) || void 0 === n ? void 0 : n.done) || !1
                         }
                     }, {
-                        title: "Khalim's Will",
-                        description: "Clear the Sewers<br/>Reward: 10 shards",
+                        title: "The Frozen Throne",
+                        description: "Clear the Asgarnian Ice Dungeon<br/>Reward: 10 shards",
                         reward: t => t.getData().shards += 10,
                         check: t => {
                             var n;
                             return (null === (n = t.level("sewers2")) || void 0 === n ? void 0 : n.done) || !1
                         }
                     }, {
-                        title: "The Blackened Temple",
-                        description: "Clear Travincal<br/>Reward: 5 attribute points",
+                        title: "Troll Stronghold",
+                        description: "Clear Bandos' Stronghold<br/>Reward: 5 attribute points",
                         reward: t => t.getData().rem += 5,
                         check: t => {
                             var n;
                             return (null === (n = t.level("travincal")) || void 0 === n ? void 0 : n.done) || !1
                         }
                     }, {
-                        title: "The Guardian",
-                        description: 'Kill Mephisto<br/>Reward: <span class="text-unique">Traveler\'s protector</span>',
+                        title: "Wrath of the Ancients",
+                        description: 'Kill Nex<br/>Reward: <span class="text-unique">Amulet of Fury</span>',
                         reward: t => {
                             t.dropUnique("travelersprotector")
                         },
@@ -15564,14 +15564,14 @@ if (!self.__WB_pmw) {
                         check: () => !0,
                         effect: t => t.getData().tutos.push({
                             selector: "#levels div:nth-of-type(2)",
-                            html: "Explore the Blood Moor to begin your adventure."
+                            html: "Explore Lumbridge Swamp to begin your adventure."
                         })
                     }, {
                         id: "tuto1",
                         check: t => t.getData().life < 10,
                         effect: t => t.getData().tutos.push({
                             selector: "#levels div:nth-of-type(1)",
-                            html: "Get back to the camp when your life is too low."
+                            html: "Get back to Lumbridge when your life is too low."
                         })
                     }, {
                         id: "tuto2",
@@ -15755,21 +15755,21 @@ if (!self.__WB_pmw) {
                     }],
                     Z4 = [{
                         id: "andariel",
-                        desc: "Kill Andariel",
+                        desc: "Kill King Black Dragon",
                         val: t => t.getData().stats.total.bosses.andariel || 0,
                         req: 10,
                         reward: t => t.getData().stashlimit++,
                         rewardDesc: "Stash size +1"
                     }, {
                         id: "duriel",
-                        desc: "Kill Duriel",
+                        desc: "Kill Kalphite Queen",
                         val: t => t.getData().stats.total.bosses.duriel || 0,
                         req: 20,
                         reward: t => t.getData().stashlimit++,
                         rewardDesc: "Stash size +1"
                     }, {
                         id: "mephisto",
-                        desc: "Kill Mephisto",
+                        desc: "Kill Nex",
                         val: t => t.getData().stats.total.bosses.mephisto || 0,
                         req: 25,
                         reward: t => t.getData().stashlimit += 2,
@@ -15916,7 +15916,7 @@ if (!self.__WB_pmw) {
                                     item: .3,
                                     magic: [.42, .03, .04],
                                     potion: .1
-                                }, this.istr = 10, this.idex = 10, this.ivit = 10, this.iene = 5, this.resredbyact = 8, this.shrinechance = 2e-4, this.shrinetimeout = 20, this.magiclvlgap = [1, 2, 3, 4], this.potionlvllimit = 30, this.itemlvllimit = 32, this.skilllimit = 20, this.merchants = 3, this.mercsToHire = 4, this.mercsLvllimit = 8, this.merchantsName = ["Akara", "Charsi", "Gheed", "Kashya", "Warriv", "Atma", "Drognan", "Elzix", "Fara", "Greiz", "Jerhyn", "Lysander", "Meshif"], this.logs = [{
+                                }, this.istr = 10, this.idex = 10, this.ivit = 10, this.iene = 5, this.resredbyact = 8, this.shrinechance = 2e-4, this.shrinetimeout = 20, this.magiclvlgap = [1, 2, 3, 4], this.potionlvllimit = 30, this.itemlvllimit = 32, this.skilllimit = 20, this.merchants = 3, this.mercsToHire = 4, this.mercsLvllimit = 8, this.merchantsName = ["Aubury", "Horvik", "Lowe", "Zeke", "Bob", "Thessalia", "Zaff", "Louie Legs", "Ranael", "Gaius", "Baraek", "Aemad", "Gerrant"], this.logs = [{
                                     type: "h",
                                     cls: ""
                                 }, {
